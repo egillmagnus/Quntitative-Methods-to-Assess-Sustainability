@@ -1,327 +1,327 @@
-# Exam Solutions – Part 5
+# MC Exam Notes – Nr. 5
 
-## Resource Economics, Fisheries, MSY, MEY, and Trade-offs
+## Resource Economics, Fisheries, MSY, MEY, and Trade-offs (MC-Optimized)
 
-This part covers renewable resource management using fisheries as the core example. Exams test whether you understand **biological dynamics**, **economic incentives**, and **why sustainability is a trade-off problem**, not a single optimum.
-
----
-
-## 1. What Type of Sustainability Problem Is a Fishery?
-
-A fishery is:
-
-- a **renewable resource**  
-- typically a **common-pool resource**  
-- biologically renewable  
-- economically rivalrous  
-- often non-excludable
-
-This combination makes fisheries **inherently difficult to manage sustainably**.
+This section trains you to **recognize correct statements instantly** in fisheries and renewable resource MC questions.
 
 ---
 
-## 2. Stock Dynamics: The Biological Foundation
+## 1. What Kind of Resource Is a Fishery?
 
-### Biomass Balance Equation
+### ✅ ALWAYS TRUE
 
-Fish biomass evolves according to:
+- Fisheries are **renewable**
+- Fisheries are typically **common-pool resources**
+- They are:
+  - rivalrous
+  - difficult to exclude access to
+- Sustainability depends on **management**
+
+---
+
+### ❌ NEVER TRUE
+
+- Fisheries are non-renewable
+- Fisheries are private goods by default
+- Renewable means cannot collapse
+
+---
+
+### 🧠 FAST CHECK
+
+If the option mentions:
+
+- shared access + depletion → ✔️ common-pool resource
+
+---
+
+## 2. Biomass Dynamics (Core Structure)
+
+### ✅ ALWAYS TRUE
 
 $$ B_{t+1} = B_t + G(B_t) - H_t $$
 
-Where:
-
-- $B_t$ = biomass at time $t$  
-- $G(B_t)$ = natural growth  
-- $H_t$ = harvest
-
-This equation is the **starting point of all fishery models**.
+- Biomass increases via growth
+- Biomass decreases via harvest
 
 ---
 
-## 3. Logistic Growth Function (Must Know)
+### ❌ NEVER TRUE
 
-Natural growth is often modeled as:
-
-$$ G(B) = r B \left(1 - \frac{B}{K} \right) $$
-
-Where:
-
-- $r$ = intrinsic growth rate  
-- $K$ = carrying capacity  
-- $B$ = biomass
+- Harvest increases biomass
+- Biomass is independent of harvest
+- Growth is constant at all biomass levels
 
 ---
 
-### Interpretation (Exam Critical)
+## 3. Logistic Growth Function
 
-- Growth is **zero** at $B = 0$  
-- Growth is **zero** at $B = K$  
-- Growth is **maximal** at an intermediate biomass
+### ✅ ALWAYS TRUE
 
-This shape is essential to understanding MSY.
+$$ G(B) = r B \left(1 - \frac{B}{K}\right) $$
+
+- Growth = 0 at $B=0$
+- Growth = 0 at $B=K$
+- Growth is maximal at intermediate $B$
+
+---
+
+### ❌ NEVER TRUE
+
+- Growth is highest at $B=K$
+- Growth is linear
+- Growth is independent of biomass
+
+---
+
+### 🧠 FAST CHECK
+
+If option says:
+
+- “maximum growth at half carrying capacity” → ✔️
 
 ---
 
 ## 4. Sustainable Harvest Condition
 
-A harvest is **sustainable** if:
+### ✅ ALWAYS TRUE
 
-$$ H \leq G(B) $$
+- Harvest is sustainable if:
 
-If:
+$$ H \le G(B) $$
 
-- $H > G(B)$ → biomass declines  
-- $H = G(B)$ → steady state  
-- $H < G(B)$ → biomass increases
+- If harvest exceeds growth → collapse
 
-This logic is often tested conceptually.
+---
+
+### ❌ NEVER TRUE
+
+- Any constant harvest is sustainable
+- Sustainability depends only on price
 
 ---
 
 ## 5. Maximum Sustainable Yield (MSY)
 
-### Definition
+### ✅ ALWAYS TRUE
 
-**MSY** is the **largest constant harvest** that can be taken *indefinitely* without collapsing the stock.
+- MSY is a **biological concept**
+- MSY is the **maximum long-term harvest**
+- MSY depends on the growth model
 
 ---
 
-### MSY Location (Logistic Model)
+### ✅ LOGISTIC MODEL FACTS
 
-MSY occurs at:
+- MSY occurs at:
 
 $$ B = \frac{K}{2} $$
 
-And the value of MSY is:
+- MSY value:
 
 $$ \text{MSY} = \frac{rK}{4} $$
 
 ---
 
-### Interpretation
+### ❌ NEVER TRUE
 
-- MSY is a **biological maximum**  
-- Harvesting above MSY leads to collapse  
-- MSY depends on **model assumptions**
+- MSY is always safe
+- MSY guarantees sustainability in practice
+- MSY is an economic optimum
 
 ---
 
-### Exam Trap
+### ⚠️ COMMON MC TRAP
 
-❌ “MSY is always safe”  
-✅ Correct:
+“MSY is conservative” → ❌
 
-- MSY is risky in practice due to uncertainty in $r$ and $K$  
-- Small errors can cause overfishing
+Correct:
 
-Mentioning uncertainty earns points.
+> MSY is **risky under uncertainty**
 
 ---
 
 ## 6. Effort, Catch, and CPUE
 
-Harvest is often expressed as:
+### ✅ ALWAYS TRUE
 
-$$ H = q E B $$
+$$ H = qEB $$
 
-Where:
-
-- $q$ = catchability  
-- $E$ = fishing effort  
-- $B$ = biomass
-
----
-
-### Catch Per Unit Effort (CPUE)
+- More effort → more harvest (short term)
+- CPUE:
 
 $$ \text{CPUE} = \frac{H}{E} = qB $$
 
-Interpretation:
+---
 
-- CPUE is a **proxy for biomass**  
-- Declining CPUE indicates stock depletion
+### ❌ NEVER TRUE
 
-This is frequently tested.
+- CPUE is independent of biomass
+- Increasing effort always increases CPUE
 
 ---
 
-## 7. Why MSY Is Not Enough: Economics
+### 🧠 FAST CHECK
 
-A fishery must also be **economically viable**.
+If option says:
 
-### Profit Function
+- “CPUE declines as stock collapses” → ✔️
 
-$$ \Pi(E) = p \cdot H(E) - c \cdot E $$
+---
 
-Where:
+## 7. Why MSY Is Not Enough (Economics)
 
-- $p$ = price per unit catch  
-- $c$ = cost per unit effort
+### ✅ ALWAYS TRUE
+
+- Biological sustainability ≠ economic sustainability
+- Profit matters for fishers
+
+---
+
+### ❌ NEVER TRUE
+
+- MSY maximizes profit
+- Economics are irrelevant to sustainability
 
 ---
 
 ## 8. Maximum Economic Yield (MEY)
 
-### Definition
+### ✅ ALWAYS TRUE
 
-**MEY** is the level of fishing effort that **maximizes profit**, not catch.
-
----
-
-### Key Relationship
-
-Almost always:
+- MEY maximizes **profit**
+- MEY occurs at **lower effort than MSY**
 
 $$ E_{\text{MEY}} < E_{\text{MSY}} $$
 
-Meaning:
-
-- MEY implies **lower effort**  
-- Higher biomass  
-- Lower ecological risk
+- MEY implies:
+  - higher biomass
+  - lower ecological risk
 
 ---
 
-### Interpretation (Very Important)
+### ❌ NEVER TRUE
 
-MEY is often:
-
-- more sustainable  
-- more profitable  
-- but politically unpopular (fewer fishers)
-
-This socio-economic aspect matters.
+- MEY maximizes catch
+- MEY occurs at higher effort than MSY
 
 ---
 
-## 9. Effect of Subsidies (Classic Exam Topic)
+### 🧠 FAST CHECK
 
-Subsidies:
+If option says:
 
-- reduce effective cost $c$  
-- increase optimal effort  
-- push fishing closer to or beyond MSY
+- “lower effort, higher biomass” → ✔️ MEY
 
-Thus:
+---
 
-> Subsidies generally **undermine sustainability**
+## 9. Effect of Subsidies
 
-This statement is almost always correct in exams.
+### ✅ ALWAYS TRUE
+
+- Subsidies reduce effective costs
+- Subsidies increase fishing effort
+- Subsidies push fisheries toward overexploitation
+
+---
+
+### ❌ NEVER TRUE
+
+- Subsidies improve sustainability
+- Subsidies reduce effort
+
+---
+
+### 🧠 FAST CHECK
+
+If option mentions:
+
+- subsidies + sustainability → ❌
 
 ---
 
 ## 10. Bycatch and Biodiversity Constraints
 
-Fishing affects **non-target species**.
+### ✅ ALWAYS TRUE
 
-### Bycatch Relationship
+- Bycatch increases with effort
 
 $$ \text{Bycatch} \propto E $$
 
-More effort → more bycatch.
+---
+
+### ❌ NEVER TRUE
+
+- Bycatch is unrelated to fishing effort
+- Bycatch only affects target species
 
 ---
 
 ## 11. Potential Biological Removal (PBR)
 
-### Definition
+### ✅ ALWAYS TRUE
 
-PBR is the **maximum number of individuals of a protected species** that can be removed without threatening population recovery.
+- PBR limits acceptable bycatch
+- PBR protects vulnerable species
+- Sustainability requires:
 
----
-
-### Conceptual Formula
-
-$$ \text{PBR} \propto N \cdot r \cdot F_r $$
-
-Where:
-
-- $N$ = population size  
-- $r$ = growth rate  
-- $F_r$ = recovery factor
+$$ \text{Bycatch} \le \text{PBR} $$
 
 ---
 
-### Interpretation
+### ❌ NEVER TRUE
 
-If:
-
-$$ \text{Bycatch} > \text{PBR} $$
-
-Then:
-
-- fishery is **not sustainable**  
-- regardless of MSY or MEY
+- MSY overrides PBR
+- Economic profit justifies exceeding PBR
 
 ---
 
-## 12. Multi-Criteria Sustainability Problem
+## 12. Multi-Criteria Sustainability
 
-A sustainable fishery must satisfy:
+### ✅ ALWAYS TRUE
 
-- $H \le \text{MSY}$ (biological)  
-- $\Pi \ge 0$ (economic)  
-- $\text{Bycatch} \le \text{PBR}$ (biodiversity)
+Sustainable fisheries must satisfy:
 
-This creates a **feasible region**, not a single solution.
-
----
-
-## 13. Trade-offs and Management Options
-
-Possible responses:
-
-- reduce effort  
-- improve selectivity  
-- spatial closures  
-- gear modification
-
-Each option:
-
-- shifts MSY  
-- shifts MEY  
-- changes trade-offs
+- biological constraints (MSY)
+- economic viability (MEY)
+- biodiversity limits (PBR)
 
 ---
 
-## 14. Tragedy of the Commons Revisited
+### ❌ NEVER TRUE
 
-Without governance:
+- One criterion is sufficient
+- Sustainability has a single optimum
 
-- individual rationality → overfishing  
+---
+
+## 13. Tragedy of the Commons (Fisheries Context)
+
+### ✅ ALWAYS TRUE
+
+- Individual incentives → overfishing
 - Nash equilibrium → collapse
-
-Sustainability requires:
-
-- regulation  
-- quotas  
-- enforcement  
-- cooperation
+- Governance is required
 
 ---
 
-## 15. What Examiners Look For in Part 5
+### ❌ NEVER TRUE
 
-Full-credit answers:
-
-- explain biological growth  
-- define MSY and MEY correctly  
-- explain why MEY < MSY  
-- mention uncertainty  
-- include bycatch constraints  
-- recognize trade-offs
+- Awareness alone prevents collapse
+- Markets solve common-pool problems automatically
 
 ---
 
-## Summary
+## 🔍 MC QUICK ELIMINATION RULES (Nr. 5)
 
-- Fisheries are renewable but fragile  
-- MSY is a biological concept  
-- MEY is an economic concept  
-- Subsidies distort incentives  
-- Bycatch introduces hard constraints  
-- Sustainability requires governance
+Eliminate options that:
+
+- treat MSY as safe or conservative
+- confuse MSY and MEY
+- ignore bycatch constraints
+- claim subsidies help sustainability
+- assume renewable = safe
 
 ---
 
-**End of Part 5**
+**End of MC-Optimized Nr. 5**

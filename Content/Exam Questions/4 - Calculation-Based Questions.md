@@ -1,260 +1,267 @@
-# Exam Solutions – Part 4
+# MC Exam Notes – Nr. 4
 
-## Calculation-Based Questions: Vehicles, Coffee, Batteries, and Lifetime Reasoning
+## Calculation-Based Questions (Vehicles, Coffee, Batteries, Lifetime Reasoning)
 
-This part explains how to correctly approach *quantitative sustainability questions* without needing a calculator-heavy workflow. Exams test **setup, assumptions, and proportional reasoning**, not arithmetic precision.
-
----
-
-## 1. First: How to Read a Quantitative Exam Question
-
-Before calculating anything, always identify:
-
-1. **Functional unit** (e.g. per km, per cup, per year, per lifetime)  
-2. **Life-cycle phases involved**  
-   - Manufacturing  
-   - Use  
-   - End-of-life (often negligible unless stated)  
-3. **What is compared**  
-   - Two products?  
-   - Two behaviors?  
-   - Same product in different contexts?
-
-Most errors come from skipping this step.
+This section trains you to **spot the correct answer without heavy calculation**. MC questions test **structure, dominance, and proportional reasoning**.
 
 ---
 
-## 2. General Life-Cycle Impact Formula
+## 1. Functional Unit in Calculation Questions
 
-Almost all calculation questions reduce to:
+### ✅ ALWAYS TRUE
 
-$$ \text{Total Impact} = \text{Manufacturing Impact} + \text{Use Impact} + \text{End-of-Life Impact} $$
-
-In exams:
-
-- end-of-life is usually **ignored or explicitly stated**  
-- focus is on **manufacturing vs use**
-
----
-
-## 3. Use-Phase Impact Formula (Key Formula)
-
-For energy-using products:
-
-$$ \text{Use Impact} = \text{Energy Use} \times \text{Carbon Intensity} $$
-
-Where:
-
-- Energy use is typically in $\text{kWh}$  
-- Carbon intensity is in $\text{kg CO}_2/\text{kWh}$
-
-This formula appears in **every EV, e-bike, and appliance question**.
+- Calculations must be normalized to a **functional unit**
+- Typical functional units:
+  - transport → per km
+  - coffee → per cup
+  - appliances → per year or lifetime
 
 ---
 
-## 4. Lifetime Impact Formula
+### ❌ NEVER TRUE
 
-When a product is used repeatedly:
-
-$$ \text{Lifetime Impact} = \text{Manufacturing Impact} + (\text{Impact per use} \times \text{Number of uses}) $$
-
-This is crucial for:
-
-- coffee machines  
-- vehicles  
-- batteries
+- Comparing “one product” without lifetime normalization
+- Mixing per-use and total values
 
 ---
 
-## 5. Vehicles: Impact per Kilometer
+### 🧠 FAST CHECK
 
-### Correct Functional Unit
+If options compare:
 
-For transport comparisons:
-
-$$ \text{Functional unit} = 1 \text{ km driven} $$
-
----
-
-### Impact per km Formula
-
-$$ \text{Impact per km} = \frac{\text{Manufacturing Impact}}{\text{Lifetime km}} + \text{Use-phase impact per km} $$
-
-This formula explains why:
-
-- long lifetime → lower manufacturing impact per km  
-- clean electricity → lower use-phase impact
+- objects → ❌
+- services (km, cup, year) → ✔️
 
 ---
 
-## 6. Battery Manufacturing Impact (Very Common)
+## 2. Life-Cycle Structure (Universal)
 
-Battery manufacturing impact is often given as:
+### ✅ ALWAYS TRUE
 
-$$ \text{Battery Impact} = \text{Battery Capacity} \times \text{Impact per kWh} $$
-
-Example structure (numbers vary by exam):
-
-$$ 40 \text{ kWh} \times 150 \frac{\text{kg CO}_2}{\text{kWh}} $$
+$$ \text{Total Impact} = \text{Manufacturing} + \text{Use} + \text{End-of-life (if stated)} $$
 
 ---
 
-### Battery Impact per km
+### ❌ NEVER TRUE
 
-$$ \text{Battery impact per km} = \frac{\text{Battery Impact}}{\text{Lifetime km}} $$
-
-This explains why:
-
-- larger batteries are worse **unless**  
-- they are used over long distances
+- Only manufacturing matters
+- Only use phase matters
+- End-of-life always dominates
 
 ---
 
-## 7. E-bike vs Car Reasoning (No Calculator Needed)
+### ⚠️ COMMON MC TRAP
 
-Typical exam logic:
+“Manufacturing dominates for all products” → ❌
 
-- Car:  
-  - High manufacturing impact  
-  - Moderate use impact  
-- E-bike:  
-  - Very low manufacturing impact  
-  - Very low use impact
+Correct:
 
-Even with rough numbers:
-
-$$ \text{Car impact per km} \gg \text{E-bike impact per km} $$
-
-You should explicitly mention:
-
-- orders of magnitude  
-- dominance of use vs manufacturing
+> Dominant phase depends on **lifetime and energy use**
 
 ---
 
-## 8. Coffee Example (Classic Exam Question)
+## 3. Use-Phase Impact Logic
 
-### Functional Unit
+### ✅ ALWAYS TRUE
 
-Correct functional unit:
+$$ \text{Use impact} = \text{Energy use} \times \text{Carbon intensity} $$
 
-$$ 1 \text{ cup of coffee} $$
-
----
-
-### Life-Cycle Breakdown
-
-Coffee impact typically includes:
-
-- coffee beans production  
-- brewing energy  
-- machine manufacturing
+- Electricity mix directly affects use-phase impact
+- Same product → different footprint in different countries
 
 ---
 
-### Coffee Machine Impact per Cup
+### ❌ NEVER TRUE
 
-$$ \text{Machine impact per cup} = \frac{\text{Machine manufacturing impact}}{\text{Number of cups over lifetime}} $$
-
-This explains why:
-
-- machine impact per cup is small  
-- energy and coffee production dominate
+- Use-phase emissions are location-independent
+- Energy use alone determines impact
 
 ---
 
-## 9. Comparing Behaviors (Coffee vs Commuting)
+### 🧠 FAST CHECK
 
-A common exam trick is to compare:
-
-- daily coffee consumption  
-- daily commuting
-
-Correct reasoning structure:
-
-1. Convert both to:  
-   - per day  
-   - same unit (e.g. kg CO₂/day)  
-2. Compare magnitudes
-
-Typically:
-
-- commuting dominates  
-- coffee is non-negligible but smaller
-
-Stating **relative size**, not exact numbers, is sufficient.
+If option ignores **electricity mix** → likely wrong
 
 ---
 
-## 10. Scaling and Proportional Reasoning
+## 4. Lifetime Normalization (Very Common MC Topic)
 
-Exams often give ratios instead of full data. If:
+### ✅ ALWAYS TRUE
 
-- Product A uses 3× more energy  
-- Electricity is 4× cleaner
-
-Then:
-
-$$ \text{Impact}_A \approx \frac{3}{4} \text{Impact}_B $$
-
-You are expected to reason **qualitatively**, not compute precisely.
+$$ \text{Impact per unit} = \frac{\text{Manufacturing impact}}{\text{Lifetime use}} + \text{Use impact per unit} $$
 
 ---
 
-## 11. Break-Even Analysis (Very Important)
+### ❌ NEVER TRUE
 
-Break-even distance or time occurs when:
-
-$$ \text{Extra manufacturing impact} = \text{Saved use-phase impact} $$
-
----
-
-### Break-Even Distance Formula
-
-$$ \text{Break-even km} = \frac{\Delta \text{Manufacturing Impact}} {\Delta \text{Use Impact per km}} $$
-
-This explains:
-
-- why EVs need time to “pay back” manufacturing emissions  
-- why clean electricity shortens break-even distance
+- Short lifetime has no effect
+- Manufacturing impact is independent of lifetime
 
 ---
 
-## 12. Typical Exam Traps (And How to Avoid Them)
+### ⚠️ COMMON MC TRAP
 
-❌ Forgetting lifetime  
-❌ Comparing products instead of services  
-❌ Ignoring electricity mix  
-❌ Mixing per-unit and total values  
-❌ Assuming manufacturing always dominates  
+“Large battery = always bad” → ❌
 
-✅ Always normalize to functional unit  
-✅ Always separate life-cycle phases
+Correct:
+
+> Depends on **lifetime km**
 
 ---
 
-## 13. What Examiners Look For in Part 4
+## 5. Battery Manufacturing Impact
 
-Full-credit answers:
+### ✅ ALWAYS TRUE
 
-- define the functional unit  
-- write the correct formula  
-- explain which term dominates  
-- justify assumptions  
-- compare orders of magnitude
-
-You do **not** need exact arithmetic unless explicitly asked.
+$$ \text{Battery impact} = \text{Capacity (kWh)} \times \text{Impact per kWh} $$
 
 ---
 
-## Summary
+### ❌ NEVER TRUE
 
-- Most calculations reduce to a few core formulas  
-- Understanding structure matters more than numbers  
-- Lifetime normalization is essential  
-- Electricity mix is a key driver  
-- Break-even reasoning is high-value
+- Battery impact is negligible
+- Battery impact depends on electricity mix in use phase
 
 ---
 
-**End of Part 4**
+### 🧠 FAST CHECK
+
+If option scales with:
+
+- battery size → ✔️
+- driving location → ❌ (manufacturing)
+
+---
+
+## 6. Vehicles: Car vs EV vs E-Bike
+
+### ✅ ALWAYS TRUE (Order of Magnitude)
+
+- E-bike impact per km ≪ car impact per km
+- EV manufacturing impact > ICE manufacturing
+- EV use-phase impact < ICE use-phase (clean grid)
+
+---
+
+### ❌ NEVER TRUE
+
+- EVs are always worse than ICE cars
+- E-bikes are comparable to cars
+- Manufacturing dominates EV lifetime impact in all cases
+
+---
+
+### 🧠 FAST CHECK
+
+If option says:
+
+- “orders of magnitude” → ✔️
+- “always” → ❌
+
+---
+
+## 7. Coffee Questions (Classic MC Topic)
+
+### ✅ ALWAYS TRUE
+
+- Functional unit = **1 cup of coffee**
+- Machine impact is spread over many cups
+- Coffee production and energy dominate
+
+---
+
+### ❌ NEVER TRUE
+
+- Coffee machine dominates per-cup impact
+- One coffee ≈ one commute
+
+---
+
+### 🧠 FAST CHECK
+
+If option blames:
+
+- machine → ❌
+- coffee beans / energy → ✔️
+
+---
+
+## 8. Comparing Behaviors (Coffee vs Commuting)
+
+### ✅ ALWAYS TRUE
+
+- Convert to same unit (e.g. per day)
+- Compare **orders of magnitude**
+
+Typical result:
+
+- commuting ≫ coffee
+
+---
+
+### ❌ NEVER TRUE
+
+- Small daily impacts are irrelevant
+- Lifestyle impacts do not accumulate
+
+---
+
+## 9. Proportional Reasoning (No Calculator)
+
+### ✅ ALWAYS TRUE
+
+- Relative scaling is sufficient
+- Ratios matter more than absolute numbers
+
+Example logic:
+
+- 3× energy × ¼ intensity ≈ similar impact
+
+---
+
+### ❌ NEVER TRUE
+
+- Exact arithmetic is required unless stated
+- Precision determines correctness
+
+---
+
+## 10. Break-Even Analysis
+
+### ✅ ALWAYS TRUE
+
+Break-even occurs when:
+
+$$ \Delta \text{Manufacturing} = \Delta \text{Use} \times \text{Time or Distance} $$
+
+---
+
+### ❌ NEVER TRUE
+
+- Break-even is instantaneous
+- Break-even is independent of electricity mix
+
+---
+
+### 🧠 FAST CHECK
+
+If option mentions:
+
+- payback time or distance → ✔️
+- immediate benefit → ❌
+
+---
+
+## 🔍 MC QUICK ELIMINATION RULES (Nr. 4)
+
+Eliminate options that:
+
+- compare products instead of services
+- ignore lifetime
+- ignore electricity mix
+- claim one phase always dominates
+- demand exact calculations without being asked
+
+---
+
+**End of MC-Optimized Nr. 4**

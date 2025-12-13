@@ -1,63 +1,65 @@
-# Exam Solutions – Part 1
+# MC Exam Notes – Nr. 1
 
-## Foundations, Definitions, and Core Concepts
+## Foundations, Definitions, and Core Concepts (Multiple Choice Optimized)
 
-This section covers fundamental conceptual questions that appear repeatedly in the exams. These questions test *understanding*, not memorization, and are often used to separate good answers from excellent ones.
-
----
-
-## Question Type 1: What Is a Functional Unit?
-
-### Correct Definition
-
-A **functional unit** is a *quantified description of the service provided* by a product or system, used as the reference for comparison in Life Cycle Assessment (LCA). It answers the question:
-
-> What service is delivered, how much of it, and under which conditions?
-
-Formally:
-
-- The functional unit defines **what is compared**  
-- It ensures **comparability** between alternatives  
-- It is expressed in terms of *function*, not *product*
+Use this section to **recognize the correct option instantly** and eliminate traps.
 
 ---
 
-### Correct Example (Coffee Machine)
+## 1. Functional Unit (LCA)
 
-❌ Incorrect functional unit:
+### ✅ ALWAYS TRUE
 
-- “One coffee machine”
+- A functional unit describes a **service**, not a product  
+- It is **quantified**  
+- It includes **amount and/or time**  
+- It is required for **comparability** in LCA
 
-✅ Correct functional unit:
+Typical wording:
 
-- “Preparation of 10,000 cups of coffee over 5 years”
-
-**Explanation**:
-
-- Different machines have different lifetimes  
-- Different machines use different amounts of energy per cup  
-- The service is *coffee*, not *the machine*
-
----
-
-### Why This Matters in Exams
-
-Examiners want to see that you:
-
-- understand that LCA compares **services**, not objects  
-- avoid comparing “one item vs one item” when lifetimes differ
-
-A very common mistake is forgetting the *time or quantity* dimension.
+- “per km”  
+- “per cup”  
+- “per year”  
+- “over lifetime”
 
 ---
 
-## Question Type 2: Renewable vs Non-Renewable Resources
+### ❌ NEVER TRUE
 
-### Correct Definitions
+- “One product” is a functional unit  
+- Functional unit = object  
+- Functional unit ignores lifetime  
+- Functional unit is optional in LCA
 
-#### Non-Renewable Resource
+---
 
-A resource that **does not regenerate on a time scale relevant to human use**.
+### ⚠️ COMMON MC TRAPS
+
+- “One coffee machine”  
+- “One car”  
+- “One battery”  
+- “One washing machine”
+
+If the option **does not mention service or quantity**, it is wrong.
+
+---
+
+### 🧠 FAST CHECK
+
+Ask:
+
+> *Is this phrased as a service with a quantity or time?*
+
+If no → ❌
+
+---
+
+## 2. Renewable vs Non-Renewable Resources
+
+### ✅ NON-RENEWABLE (Correct Logic)
+
+- Does **not regenerate** on human time scales  
+- Finite for practical purposes
 
 Examples:
 
@@ -66,13 +68,12 @@ Examples:
 - Natural gas  
 - Minerals
 
-Even if geological regeneration exists, it is irrelevant on human time scales.
-
 ---
 
-#### Renewable Resource
+### ✅ RENEWABLE (Correct Logic)
 
-A resource that **can regenerate through natural processes** within a time frame compatible with human use.
+- Regenerates through natural processes  
+- Regeneration can be **overused**
 
 Examples:
 
@@ -83,192 +84,212 @@ Examples:
 
 ---
 
-### Critical Exam Point (Often Missed)
+### ❌ NEVER TRUE
 
-Renewable **does NOT mean infinite**. A renewable resource can become:
-
-- depleted,  
-- functionally extinct,  
-- or unable to regenerate, if the **rate of use exceeds the regeneration rate**.
-
-This distinction is essential for full credit.
+- Renewable = infinite  
+- Renewable resources cannot be depleted  
+- Non-renewable resources regenerate fast enough to matter
 
 ---
 
-## Question Type 3: Public Goods vs Common Goods
+### ⚠️ COMMON MC TRAP
 
-This is a **classification question**, based on two properties:
+“Renewable resources are sustainable by definition” → ❌
 
-- **Excludability**: Can users be prevented from access?  
-- **Rivalry**: Does one user reduce availability for others?
+Correct logic:
+
+> Sustainability depends on **rate of use vs regeneration**
 
 ---
 
-### Public Goods
+## 3. Public Goods vs Common Goods
 
-- ❌ Excludable: No  
-- ❌ Rivalrous: No
+### Classification Axes (Must Know)
+
+- **Excludability**  
+- **Rivalry**
+
+---
+
+### ✅ PUBLIC GOODS
+
+- ❌ Excludable  
+- ❌ Rivalrous
 
 Examples:
 
 - Street lighting  
 - Knowledge  
-- Clean air (in absence of congestion)
+- Clean air (low congestion)
 
-Key property:
+Key phrase:
 
-> One person’s use does not reduce availability for others.
+> One person’s use does NOT reduce availability
 
 ---
 
-### Common Goods (Common-Pool Resources)
+### ✅ COMMON GOODS (Common-Pool Resources)
 
-- ❌ Excludable: No  
-- ✅ Rivalrous: Yes
+- ❌ Excludable  
+- ✅ Rivalrous
 
 Examples:
 
 - Fish stocks  
 - Groundwater  
-- Grazing land  
-- Atmosphere (for CO₂ emissions)
+- Atmosphere (CO₂ capacity)  
+- Grazing land
 
 ---
 
-### Why Common Goods Are a Sustainability Problem
+### ❌ NEVER TRUE
 
-Because they are:
-
-- non-excludable  
-- rivalrous
-
-they are prone to **overexploitation**, leading to the:
-
-> **Tragedy of the Commons**
-
-This exact reasoning is expected in exam answers.
+- Common goods are excludable  
+- Public goods are rivalrous  
+- Atmosphere is a private good
 
 ---
 
-## Question Type 4: The Tragedy of the Commons
+### 🧠 FAST CHECK
 
-### Correct Explanation
+If:
 
-The tragedy of the commons occurs when:
-
-- multiple actors share access to a resource,  
-- each actor benefits individually from increased use,  
-- the costs of overuse are shared collectively.
-
-This creates incentives for **overuse**, even when everyone understands that collapse is inevitable.
+- shared  
+- hard to exclude  
+- gets depleted → **Common good**
 
 ---
 
-### Game-Theoretic Interpretation
+## 4. Tragedy of the Commons
 
-The tragedy of the commons resembles a **prisoner’s dilemma**:
+### ✅ ALWAYS TRUE
 
-- Cooperation is collectively optimal  
-- Defection is individually rational  
-- The Nash equilibrium is overexploitation
+Occurs when:
 
-You should explicitly mention **incentives** and **lack of enforceable cooperation** to get full marks.
+- resource is shared  
+- users act in self-interest  
+- costs are shared  
+- benefits are private
 
 ---
 
-## Question Type 5: I = P × A × T (IPAT)
+### ❌ NEVER TRUE
 
-### Correct Interpretation
+- Caused by lack of knowledge  
+- Solved automatically by awareness  
+- Only applies to non-renewable resources
 
-The IPAT identity states that environmental impact is driven by:
+---
 
-- **P** – Population  
-- **A** – Affluence (consumption per person)  
-- **T** – Technology (impact per unit of consumption)
+### 🧠 GAME THEORY RECOGNITION
+
+Correct keywords:
+
+- incentives  
+- Nash equilibrium  
+- prisoner’s dilemma  
+- rational defection
+
+If these appear → this is the correct option.
+
+---
+
+## 5. IPAT Identity (I = P × A × T)
+
+### ✅ ALWAYS TRUE
+
+- Impact increases with:  
+  - population (P)  
+  - affluence (A)  
+- Technology (T) must decrease to compensate
 
 $$ I = P \cdot A \cdot T $$
 
 ---
 
-### Correct Exam Interpretation
+### ❌ NEVER TRUE
 
-- Population is increasing globally  
-- Affluence is increasing globally  
-- Therefore, **T must decrease significantly** to stabilize or reduce impact
-
----
-
-### Common Exam Trap
-
-❌ Incorrect statement:
-
-> “Technology alone will solve sustainability problems”
-
-✅ Correct reasoning:
-
-- Efficiency gains are often offset by **rebound effects**  
-- Consumption increases when efficiency improves  
-- Therefore, technology alone is insufficient
-
-Mentioning rebound effects strengthens the answer.
+- IPAT is a precise physical law  
+- Technology alone solves sustainability  
+- Reducing T guarantees reduced impact
 
 ---
 
-## Question Type 6: Eco-Efficiency
+### ⚠️ COMMON MC TRAP
 
-### Correct Definition
+“Efficiency improvements always reduce impact” → ❌
 
-Eco-efficiency measures the amount of **value delivered per unit of environmental impact**. Conceptually:
+Correct reasoning:
 
-$$ \text{Eco-efficiency} = \frac{\text{Value or Service}}{\text{Environmental Impact}} $$
-
----
-
-### Correct Interpretation
-
-Improving eco-efficiency means:
-
-- delivering the same service with lower impact, or  
-- delivering more service with the same impact
+- **Rebound effects** can offset gains
 
 ---
 
-### Critical Limitation (Often Tested)
+### 🧠 FAST CHECK
 
-Eco-efficiency improvements:
-
-- do **not** guarantee absolute reductions in impact  
-- can lead to increased total consumption
-
-This links directly back to IPAT and rebound effects.
+If option ignores rebound → suspicious
 
 ---
 
-## Question Type 7: Sustainability Is Not Optimization
+## 6. Eco-Efficiency
 
-### Core Exam Message
+### ✅ ALWAYS TRUE
 
-Sustainability is **not about maximizing one objective**. Instead, it is about:
+- Ratio of **value/service** to **environmental impact**  
+- Measures *relative efficiency*
 
-- balancing environmental,  
-- economic,  
-- and social objectives,  
-- under constraints.
-
-There is no single “optimal” solution — only **acceptable trade-offs**.
+$$ \text{Eco-efficiency} = \frac{\text{Value}}{\text{Impact}} $$
 
 ---
 
-## Summary: What Examiners Look For in Part 1
+### ❌ NEVER TRUE
 
-To get full marks, your answers should:
-
-- Use **correct terminology**  
-- Define concepts **precisely**  
-- Explain *why* something matters  
-- Avoid simplistic “green = good” reasoning  
-- Explicitly mention trade-offs, incentives, and constraints
+- Eco-efficiency guarantees sustainability  
+- Eco-efficiency measures absolute impact  
+- Higher eco-efficiency always reduces total impact
 
 ---
 
-**End of Part 1**
+### ⚠️ COMMON MC TRAP
+
+“Eco-efficiency ensures sustainability” → ❌
+
+Correct:
+
+> Total impact can still rise
+
+---
+
+## 7. Sustainability ≠ Optimization
+
+### ✅ ALWAYS TRUE
+
+- Sustainability involves **trade-offs**  
+- No single optimum exists  
+- Multiple objectives:  
+  - environmental  
+  - economic  
+  - social
+
+---
+
+### ❌ NEVER TRUE
+
+- Sustainability = maximize one metric  
+- There is one best sustainable solution  
+- Sustainability can be solved by optimization alone
+
+---
+
+## 🔍 MC QUICK ELIMINATION RULES (Nr. 1)
+
+Eliminate options that:
+
+- define things as objects instead of services  
+- say “always”, “guarantees”, “automatically”  
+- ignore incentives, trade-offs, or rebound effects  
+- treat renewable as infinite
+
+---
+
+**End of MC-Optimized Nr. 1**

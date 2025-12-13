@@ -1,139 +1,164 @@
-# Exam Solutions – Part 2
+# MC Exam Notes – Nr. 2
 
-## Climate Change, Carbon Footprint, and Environmental Indicators
+## Climate Change, Carbon Footprint, and Environmental Indicators (MC-Optimized)
 
-This section covers climate-related questions that appear in almost every exam. These questions test whether you understand **what carbon footprint actually measures**, how indicators are used, and how to reason quantitatively without a calculator.
-
----
-
-## Question Type 1: What Is a Carbon Footprint?
-
-### Correct Definition
-
-A **carbon footprint** is a measure of the total greenhouse gas emissions associated with an activity, product, service, or system, expressed in **CO₂-equivalents**. It aggregates emissions of different greenhouse gases using **Global Warming Potentials (GWP)**.
+Use this section to **identify the correct choice immediately** and eliminate wrong answers fast.
 
 ---
 
-### Correct Formula
+## 1. Carbon Footprint – What It Is
+
+### ✅ ALWAYS TRUE
+
+- Carbon footprint measures **greenhouse gas emissions**  
+- It is expressed in **CO₂-equivalents**  
+- It aggregates multiple gases using **GWP**  
+- It applies to products, services, activities, or systems
+
+---
+
+### ❌ NEVER TRUE
+
+- Carbon footprint measures temperature increase directly  
+- Carbon footprint measures health impacts  
+- Carbon footprint measures biodiversity loss  
+- Carbon footprint is an absolute sustainability measure
+
+---
+
+### 🧠 FAST CHECK
+
+If the option says:
+
+- emissions → ✔️ possible  
+- health, deaths, biodiversity → ❌ wrong
+
+---
+
+## 2. Carbon Footprint Formula
+
+### ✅ ALWAYS TRUE
 
 $$ \text{Carbon footprint} = \sum_i E_i \cdot \text{GWP}_i $$
 
 Where:
 
-- $E_i$ is the emission of gas $i$  
-- $\text{GWP}_i$ is the Global Warming Potential of gas $i$
+- $E_i$ = emissions of gas $i$  
+- $\text{GWP}_i$ = Global Warming Potential
 
 ---
 
-### Key Exam Insight
+### ❌ NEVER TRUE
 
-Carbon footprint is:
-
-- an **emission-based indicator**  
-- positioned between **pressure** and **impact**  
-- **not** a direct measure of temperature change  
-- **not** a health indicator
-
-This distinction is frequently tested.
+- Carbon footprint uses DALYs  
+- Carbon footprint ignores non-CO₂ gases  
+- Carbon footprint equals energy use
 
 ---
 
-## Question Type 2: Global Warming Potential (GWP)
+## 3. Global Warming Potential (GWP)
 
-### Correct Explanation
+### ✅ ALWAYS TRUE
 
-Different greenhouse gases:
-
-- stay in the atmosphere for different lengths of time  
-- absorb different amounts of infrared radiation
-
-To compare them, emissions are converted to CO₂-equivalents using GWP.
-
----
-
-### Correct Definition
-
-$\text{GWP}_{100}$ measures the **integrated radiative forcing** of a gas over a 100-year time horizon relative to CO₂. CO₂ is defined as:
-
-$$ \text{GWP}_{100}(CO_2) = 1 $$
+- GWP compares gases to **CO₂**  
+- CO₂ has $\text{GWP}_{100} = 1$  
+- GWP accounts for:  
+  - radiative forcing  
+  - atmospheric lifetime
 
 ---
 
-### Typical GWP Values (Order of Magnitude)
+### ❌ NEVER TRUE
 
-- CO₂: $1$  
-- CH₄ (methane): $\sim 28$  
-- N₂O (nitrous oxide): $\sim 265$
-
-You are **not expected to memorize exact values**, but you should know:
-
-- methane is much stronger than CO₂  
-- nitrous oxide is much stronger than methane
+- GWP is a physical constant  
+- GWP is exact  
+- GWP measures toxicity or health directly
 
 ---
 
-## Question Type 3: Why Use GWP100?
+### ⚠️ COMMON MC TRAP
 
-### Correct Exam Answer
+“GWP100 is used because it is the most accurate” → ❌
 
-GWP100 is used because:
+Correct logic:
 
-- it balances short- and long-term effects  
-- it is internationally standardized  
-- it allows comparability across studies
+> GWP100 is a **policy convention**
 
 ---
 
-### Common Trap
+## 4. GWP100 – Why 100 Years?
 
-❌ Incorrect:
+### ✅ ALWAYS TRUE
 
-> “GWP100 is used because it is the most accurate”
-
-✅ Correct:
-
-> GWP100 is a **policy convention**, not a physical truth
-
-Mentioning this distinction often gives extra credit.
+- Balances short- and long-term effects  
+- Enables international comparability  
+- Is a **standardized choice**
 
 ---
 
-## Question Type 4: Electricity Mix and Carbon Intensity
+### ❌ NEVER TRUE
 
-### Correct Concept
-
-The **carbon footprint of electricity** depends on the **electricity mix**.
-
-Typical carbon intensities (order of magnitude):
-
-- Coal: very high  
-- Natural gas: lower than coal  
-- Wind / solar / hydro: very low  
-- Nuclear: very low
+- GWP100 is scientifically optimal  
+- GWP100 captures all climate effects perfectly
 
 ---
 
-### Exam-Relevant Comparison
+### 🧠 FAST CHECK
 
-If the same electric device is used in:
+If option says:
 
-- Denmark (renewable-heavy grid)  
-- Poland (coal-heavy grid)
-
-Then:
-
-- **use-phase emissions differ strongly**  
-- manufacturing emissions stay the same
-
-This logic is used repeatedly in EV and e-bike questions.
+- “policy convention” → ✔️  
+- “physically exact” → ❌
 
 ---
 
-## Question Type 5: Manufacturing vs Use Phase
+## 5. Typical GWP Orders of Magnitude
 
-### Core Exam Principle
+### ✅ ALWAYS TRUE (Order, not exact numbers)
 
-Whether manufacturing or use dominates depends on:
+- CO₂ < CH₄ < N₂O  
+- Methane ≫ CO₂  
+- Nitrous oxide ≫ methane
+
+---
+
+### ❌ NEVER TRUE
+
+- Methane is weaker than CO₂  
+- Nitrous oxide is similar to CO₂
+
+---
+
+## 6. Electricity Mix and Carbon Intensity
+
+### ✅ ALWAYS TRUE
+
+- Carbon footprint of electricity depends on **electricity mix**  
+- Coal-based electricity → high footprint  
+- Renewable or nuclear electricity → low footprint
+
+---
+
+### ❌ NEVER TRUE
+
+- Electricity has the same footprint everywhere  
+- Use-phase emissions are independent of location
+
+---
+
+### 🧠 FAST CHECK
+
+If the question compares **countries or grids**, the answer must mention:
+
+> electricity mix
+
+---
+
+## 7. Manufacturing vs Use Phase
+
+### ✅ ALWAYS TRUE
+
+Dominant phase depends on:
 
 - lifetime  
 - energy efficiency  
@@ -142,125 +167,123 @@ Whether manufacturing or use dominates depends on:
 
 ---
 
-### Correct Reasoning Pattern
+### ❌ NEVER TRUE
 
-- Fossil-based energy → use phase dominates  
-- Renewable electricity → manufacturing becomes relatively more important
-
-This is why:
-
-- EVs look worse upfront  
-- but better over long lifetimes and clean grids
+- Manufacturing always dominates  
+- Use phase always dominates  
+- One rule applies to all products
 
 ---
 
-## Question Type 6: Carbon Footprint vs DALYs
+### ⚠️ COMMON MC TRAP
 
-### Correct Distinction
+“EVs are worse because manufacturing emissions are high” → ❌ (incomplete)
 
-| Indicator         | Measures            |
-|-------------------|---------------------|
-| Carbon footprint  | Climate pressure    |
-| DALYs             | Human health impact |
+Correct logic:
 
-Carbon footprint:
-
-- does **not** measure health directly  
-- must be translated through impact pathways
-
-DALYs:
-
-- capture mortality and morbidity  
-- integrate multiple exposure pathways
+> Manufacturing can be high, but **use phase may dominate over lifetime**
 
 ---
 
-### Typical Exam Trap
+## 8. Carbon Footprint vs Health Indicators (DALYs)
 
-❌ Incorrect:
+### ✅ ALWAYS TRUE
 
-> “Carbon footprint measures health damage”
-
-✅ Correct:
-
-> Carbon footprint measures emissions; health impacts require additional modeling
+- Carbon footprint = **climate pressure**  
+- DALYs = **health impact**  
+- Carbon footprint does **not** measure health directly
 
 ---
 
-## Question Type 7: DPSIR Framework
+### ❌ NEVER TRUE
 
-### Correct Explanation
-
-The DPSIR framework structures environmental indicators along a cause–effect chain:
-
-- **D**rivers – human activities (e.g. km driven)  
-- **P**ressures – emissions (e.g. CO₂)  
-- **S**tate – environmental condition (e.g. radiative forcing)  
-- **I**mpact – effects (e.g. temperature rise, health damage)  
-- **R**esponse – societal actions
+- Carbon footprint is a health indicator  
+- Carbon footprint measures deaths or illness
 
 ---
 
-### Carbon Footprint Placement
+### 🧠 FAST CHECK
 
-Carbon footprint is:
+If option mentions:
 
-- a **pressure indicator**  
-- sometimes linked to impact, but not an impact itself
-
-Correct classification is frequently tested.
+- DALYs → health  
+- CO₂-eq → climate
 
 ---
 
-## Question Type 8: Unequal Responsibility and Unequal Impact
+## 9. DPSIR Framework (Very Common MC Topic)
 
-### Correct Exam Explanation
+### DPSIR Chain
 
-- High-income regions contribute most emissions  
-- Low-income regions often suffer the greatest impacts
-
-This creates:
-
-- climate injustice  
-- ethical and political challenges
-
-You should explicitly mention:
-
-- responsibility vs vulnerability  
-- global inequity
+- **D**river → activity  
+- **P**ressure → emissions  
+- **S**tate → environmental condition  
+- **I**mpact → damage  
+- **R**esponse → action
 
 ---
 
-## Question Type 9: Why One Indicator Is Not Enough
+### ✅ ALWAYS TRUE
 
-### Correct Reasoning
+- Carbon footprint is a **pressure indicator**  
+- It is *not* an impact indicator
 
-Carbon footprint captures:
+---
 
-- climate change only
+### ❌ NEVER TRUE
 
-It does **not** capture:
+- Carbon footprint = state  
+- Carbon footprint = impact
+
+---
+
+## 10. Unequal Responsibility vs Unequal Impact
+
+### ✅ ALWAYS TRUE
+
+- High-income regions emit more  
+- Low-income regions often suffer more  
+- Climate change raises **equity and justice** issues
+
+---
+
+### ❌ NEVER TRUE
+
+- Emissions and impacts are evenly distributed  
+- Those who emit most suffer most
+
+---
+
+## 11. Why One Indicator Is Not Enough
+
+### ✅ ALWAYS TRUE
+
+Carbon footprint does **not** capture:
 
 - toxicity  
 - biodiversity loss  
 - resource depletion  
 - land use
 
-Using a single indicator risks **problem shifting**. This connects directly to LCA thinking.
+---
+
+### ❌ NEVER TRUE
+
+- Carbon footprint captures total environmental impact  
+- One indicator is sufficient for sustainability
 
 ---
 
-## Summary: What Examiners Look For in Part 2
+## 🔍 MC QUICK ELIMINATION RULES (Nr. 2)
 
-To score full points, answers should:
+Eliminate options that:
 
-- Correctly define carbon footprint and GWP  
-- Distinguish pressure vs impact indicators  
-- Explain electricity mix effects  
-- Avoid confusing carbon footprint with health metrics  
-- Mention uncertainty and conventions  
-- Show awareness of global inequity
+- treat carbon footprint as health or biodiversity  
+- claim GWP is exact or physical law  
+- ignore electricity mix  
+- say one phase always dominates  
+- claim one indicator is sufficient
 
 ---
 
-**End of Part 2**
+**End of MC-Optimized Nr. 2**

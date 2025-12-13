@@ -1,302 +1,289 @@
-# Exam Solutions – Part 3
+# MC Exam Notes – Nr. 3
 
-## LCA, LCC, MFA, IO, EEIO, and CBA – How to Choose the Right Tool
+## LCA, LCC, MFA, IO, EEIO, and CBA (Multiple Choice Optimized)
 
-This section explains not only *what* each tool is, but *when* and *why* it is the correct tool to use. Exams frequently test this by giving a scenario and asking which method should be applied.
+This section is about **tool recognition**. In MC exams, most wrong answers come from **using the right tool for the wrong question**.
 
 ---
 
-## 1. First: How to Recognize the Question Type
+## 1. First Rule: Identify What the Question Is Asking
 
-Before answering, always ask:
+### 🧠 FAST TOOL CHECK
 
-1. Is the question about **environmental impact**?  
-2. Is it about **economic cost**?  
-3. Is it about **society-wide effects**?  
-4. Is it about **one product** or **the whole economy**?  
-5. Is it about **comparison** or **absolute totals**?
+Ask yourself:
 
-Your tool choice must match these dimensions.
+- Environmental impact? → LCA
+- Cost over lifetime? → LCC
+- Material quantities? → MFA
+- Economy-wide effects? → IO
+- Economy-wide + environment? → EEIO
+- Monetized decision? → CBA
+
+If an option uses the wrong tool for the question → ❌
 
 ---
 
 ## 2. Life Cycle Assessment (LCA)
 
-### What LCA Is Designed to Do
+### ✅ ALWAYS TRUE
 
-LCA assesses the **environmental impacts** of a product or service across its **entire life cycle**, from:
-
-- raw material extraction  
-- manufacturing  
-- transport  
-- use  
-- end-of-life
-
-LCA is always **functional-unit based**.
+- Assesses **environmental impacts**
+- Covers **entire life cycle**
+- Is **functional-unit based**
+- Compares **services**, not products
+- Can identify **hotspots**
 
 ---
 
-### What LCA Can Answer
+### ❌ NEVER TRUE
 
-LCA is the correct tool when the question asks:
-
-- “Which option has lower environmental impact?”  
-- “Where in the life cycle are the hotspots?”  
-- “Does use or manufacturing dominate?”  
-- “How does changing the electricity mix affect impact?”
+- LCA gives costs or profits
+- LCA measures social welfare
+- LCA provides absolute sustainability
+- LCA ignores system boundaries
 
 ---
 
-### What LCA Cannot Answer (Exam Trap)
+### ⚠️ COMMON MC TRAPS
 
-LCA:
-
-- does **not** give costs  
-- does **not** give profits  
-- does **not** measure social welfare  
-- does **not** give absolute sustainability
-
-If a question asks for **cost**, LCA alone is wrong.
+- “LCA tells us if a product is sustainable” → ❌
+- “LCA includes prices or costs” → ❌
 
 ---
 
-### How to Write a Full-Credit LCA Answer
+### 🧠 FAST CHECK
 
-A strong exam answer mentions:
+If the option mentions:
 
-- functional unit  
-- system boundaries  
-- comparison of alternatives  
-- multiple impact categories
+- CO₂, impacts, hotspots → ✔️ LCA
+- cost, money → ❌ not LCA
 
 ---
 
 ## 3. Life Cycle Costing (LCC / LCCA)
 
-### What LCC Is Designed to Do
+### ✅ ALWAYS TRUE
 
-LCC assesses the **total cost** of a product over its **entire life cycle**. It includes:
-
-- purchase cost  
-- operating cost  
-- maintenance  
-- energy  
-- disposal  
-- residual value
+- Includes **CAPEX + OPEX** ( CAPITAL EXPENCES  + OPERATIONAL EXPENCES)
+- Covers **entire lifetime**
+- Uses **monetary units**
+- Can include maintenance and residual value
 
 ---
 
-### What LCC Can Answer
+### ❌ NEVER TRUE
 
-Use LCC when the question asks:
-
-- “Which option is cheaper over its lifetime?”  
-- “How do upfront and operating costs compare?”  
-- “Does higher purchase price pay off?”
+- LCC measures emissions
+- LCC includes external environmental damage (unless stated)
+- LCC ignores upfront costs
 
 ---
 
-### Critical Exam Insight
+### ⚠️ COMMON MC TRAPS
 
-LCC focuses on:
-
-- **private costs**, not societal costs
-
-Externalities (e.g. climate damage) are:
-
-- **not included**, unless explicitly stated
-
-This distinction is frequently tested.
+- “LCC only includes operating costs” → ❌
+- “LCC includes climate damage costs” → ❌
 
 ---
 
-## 4. LCA vs LCC (Very Common Exam Comparison)
+### 🧠 FAST CHECK
 
-| Aspect          | LCA            | LCC            |
-|-----------------|----------------|----------------|
-| Domain          | Environmental  | Economic       |
-| Unit            | Functional unit| Monetary       |
-| Costs included  | No             | Yes            |
-| Emissions       | Yes            | No             |
-| Externalities   | No             | Usually no     |
+If option mentions:
 
-Correct answers explicitly mention this difference.
+- lifetime cost → ✔️ LCC
+- environmental impact → ❌ not LCC
+
+---
+
+## 4. LCA vs LCC (Very Common MC Comparison)
+
+### ✅ ALWAYS TRUE
+
+- LCA → environmental
+- LCC → economic
+- Same product can score:
+  - worse in LCA
+  - better in LCC (or vice versa)
+
+---
+
+### ❌ NEVER TRUE
+
+- LCA and LCC answer the same question
+- One can replace the other
+
+---
+
+### 🧠 FAST CHECK
+
+If option mixes:
+
+- emissions + cost → ❌ unless **combined explicitly**
 
 ---
 
 ## 5. Material Flow Analysis (MFA)
 
-### What MFA Is Designed to Do
+### ✅ ALWAYS TRUE
 
-MFA quantifies:
-
-- material inputs  
-- outputs  
-- stocks within a **defined system**, usually at a **snapshot in time**.
-
-It is mass-based, not impact-based.
+- Quantifies **materials**
+- Uses **mass units**
+- Tracks **inputs, outputs, stocks**
+- Often a **snapshot in time**
 
 ---
 
-### What MFA Can Answer
+### ❌ NEVER TRUE
 
-MFA is correct when the question asks:
-
-- “How much material is used?”  
-- “Where do materials accumulate?”  
-- “What are the major material flows?”
+- MFA gives environmental impact
+- MFA gives costs
+- MFA includes toxicity or health effects
 
 ---
 
-### Common Exam Trap
+### ⚠️ COMMON MC TRAP
 
-❌ Incorrect:
+“MFA tells us which option is environmentally best” → ❌
 
-> “MFA tells us environmental impact”
+---
 
-✅ Correct:
+### 🧠 FAST CHECK
 
-> MFA tells us **quantities of materials**, not impacts
+If option mentions:
 
-Impacts require LCA.
+- tons, kg, flows → ✔️ MFA
+- emissions or damage → ❌ not MFA
 
 ---
 
 ## 6. Input–Output (IO) Models
 
-### What IO Models Are Designed to Do
+### ✅ ALWAYS TRUE
 
-IO models describe **interdependencies between economic sectors**. They capture:
-
-- direct effects  
-- indirect effects across the whole economy.
-
----
-
-### What IO Models Can Answer
-
-Use IO models when the question asks:
-
-- “What is the total economic impact of an activity?”  
-- “How many jobs are created indirectly?”  
-- “What sectors are affected by increased demand?”
+- Economy-wide
+- Sector-based
+- Captures **direct + indirect effects**
+- Uses **monetary flows**
 
 ---
 
-### Important Concept: Multipliers
+### ❌ NEVER TRUE
 
-IO models compute **multipliers**, meaning:
+- IO is product-specific
+- IO uses functional units
+- IO ignores indirect effects
 
-- one unit of demand creates more than one unit of total activity
+---
 
-Mentioning multipliers shows understanding.
+### ⚠️ COMMON MC TRAP
+
+“IO is precise for individual products” → ❌
+
+---
+
+### 🧠 FAST CHECK
+
+If option mentions:
+
+- sectors, economy-wide, jobs → ✔️ IO
 
 ---
 
 ## 7. Environmentally Extended IO (EEIO)
 
-### What EEIO Adds
+### ✅ ALWAYS TRUE
 
-EEIO combines:
-
-- IO tables (money flows)  
-- environmental data (emissions)
-
-This allows estimation of:
-
-- indirect environmental impacts of consumption
+- IO + environmental data
+- Captures **indirect emissions**
+- Useful for **global supply chains**
 
 ---
 
-### When EEIO Is Correct
+### ❌ NEVER TRUE
 
-Use EEIO when:
-
-- supply chains are global  
-- product-level LCA data is unavailable  
-- economy-wide impacts are needed
+- EEIO is high-resolution
+- EEIO replaces product-level LCA
+- EEIO gives exact product impacts
 
 ---
 
-### Key Limitation (Exam Relevant)
+### ⚠️ COMMON MC TRAP
 
-EEIO:
+“EEIO is more accurate than LCA for products” → ❌
 
-- uses **sector averages**  
-- has **low resolution**  
-- is less precise than LCA for specific products
+---
+
+### 🧠 FAST CHECK
+
+If option mentions:
+
+- consumption footprint
+- indirect emissions → ✔️ EEIO
 
 ---
 
 ## 8. Cost–Benefit Analysis (CBA)
 
-### What CBA Is Designed to Do
+### ✅ ALWAYS TRUE
 
-CBA compares:
-
-- total benefits  
-- total costs expressed in **monetary terms**.
-
-Environmental and social impacts are monetized.
+- Compares **costs and benefits**
+- Expressed in **monetary terms**
+- Can include environmental impacts **if monetized**
+- Used for **decision-making**
 
 ---
 
-### When CBA Is the Right Tool
+### ❌ NEVER TRUE
 
-Use CBA when:
-
-- deciding whether a project should be undertaken  
-- comparing alternatives with different benefits  
-- evaluating public investments
+- CBA avoids assumptions
+- CBA is objective or exact
+- CBA ignores discounting
 
 ---
 
-### Critical Exam Insight
+### ⚠️ COMMON MC TRAP
 
-CBA depends heavily on:
+“CBA gives a scientifically correct answer” → ❌
 
-- assumptions  
-- discount rates  
-- valuation of non-market impacts
+Correct logic:
 
-Mentioning uncertainty strengthens answers.
+> CBA depends on assumptions and valuation
 
 ---
 
-## 9. Combining Tools (Very High-Value Exam Insight)
+## 9. Combining Tools (High-Value MC Insight)
 
-No single tool is sufficient. Typical combinations:
+### ✅ ALWAYS TRUE
 
-- LCA + LCC → environmental + economic  
-- LCA + DALYs → environment + health  
-- IO + EEIO → economy + environment  
-- LCA + CBA → environmental + monetary
+- No single tool is sufficient
+- Tools are **complementary**
+- Combined use improves decision quality
 
-Exams reward recognizing **complementarity**.
+Examples:
 
----
-
-## 10. How to Choose the Right Tool (Exam Checklist)
-
-Ask:
-
-1. Environmental impact? → LCA  
-2. Cost over lifetime? → LCC  
-3. Material quantities? → MFA  
-4. Economy-wide effects? → IO  
-5. Environmental + economy-wide? → EEIO  
-6. Monetized comparison? → CBA
+- LCA + LCC
+- LCA + DALYs
+- EEIO + CBA
 
 ---
 
-## Summary: What You Must Know for Full Credit
+### ❌ NEVER TRUE
 
-- Tools answer **different questions**  
-- Misusing a tool costs points  
-- Naming limitations earns points  
-- Combining tools earns top marks  
-- Always align the tool with the question
+- One tool captures full sustainability
+- Combining tools is redundant
 
 ---
 
-**End of Part 3**
+## 🔍 MC QUICK ELIMINATION RULES (Nr. 3)
+
+Eliminate options that:
+
+- use cost tools for environmental questions
+- use LCA for cost questions
+- claim absolute sustainability
+- ignore indirect effects when economy-wide impacts are asked
+- treat MFA as an impact method
+
+---
+
+**End of MC-Optimized Nr. 3**

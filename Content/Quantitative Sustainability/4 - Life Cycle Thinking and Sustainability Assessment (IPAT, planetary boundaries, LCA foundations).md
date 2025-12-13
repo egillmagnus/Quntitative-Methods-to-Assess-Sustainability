@@ -9,7 +9,8 @@ A life cycle sustainability perspective is used to understand how products and s
 - **C**hemicals
 - **O**thers
 
-MECO is used as a simplified way to describe *drivers* of environmental impacts across life cycle stages (e.g., material use relates to resource depletion; energy use relates strongly to climate change). :contentReference[oaicite:0]{index=0}
+MECO is used as a simplified way to describe *drivers* of environmental impacts across life cycle stages (e.g., material use relates to resource depletion; energy use relates strongly to climate change).
+
 
 ---
 
@@ -33,12 +34,12 @@ A well-known conceptual relationship is the **IPAT equation**, used to express t
 
 This is commonly written as: $$ I = P \cdot A \cdot T $$
 
-Important note: this should not necessarily be interpreted as “mathematically exact”, but as a conceptual model describing main drivers of total impact. :contentReference[oaicite:1]{index=1}
+Important note: this should not necessarily be interpreted as “mathematically exact”, but as a conceptual model describing main drivers of total impact.
 
 ### 3.1 Implications of Trends
 
-- **Population** has almost doubled over the last ~50 years, and is projected by the UN to keep increasing (with estimates reaching about $10.5$ billion by around $2075$). This implies $P$ increases. :contentReference[oaicite:2]{index=2}
-- **Affluence** (economic growth) is widely treated as a central policy goal, and many projections expect significant growth across regions (including rapid growth in large emerging economies). This implies $A$ increases. :contentReference[oaicite:3]{index=3}
+- **Population** has almost doubled over the last ~50 years, and is projected by the UN to keep increasing (with estimates reaching about $10.5$ billion by around $2075$). This implies $P$ increases.
+- **Affluence** (economic growth) is widely treated as a central policy goal, and many projections expect significant growth across regions (including rapid growth in large emerging economies). This implies $A$ increases.
 
 So the question becomes: how much must $T$ decrease to counterbalance increases in $P$ and $A$?
 
@@ -55,7 +56,7 @@ Planetary boundaries describe a “safe operating space” by identifying thresh
 
 Overall implication:
 
-- We need to reduce $I$ in the conceptual relationship $I = P \cdot A \cdot T$. :contentReference[oaicite:4]{index=4}
+- We need to reduce $I$ in the conceptual relationship $I = P \cdot A \cdot T$.
 
 ### 4.1 Technology Alone Is Not Enough
 
@@ -65,7 +66,7 @@ While technological improvements can reduce impact intensity, the text emphasize
 - **Rebound effects** occur: efficiency can make services cheaper, increasing consumption.
 - Human demands can increase as affluence rises.
 
-Conclusion: addressing $T$ alone is unlikely to be sufficient; consumption/demand also needs attention. :contentReference[oaicite:5]{index=5}
+Conclusion: addressing $T$ alone is unlikely to be sufficient; consumption/demand also needs attention.
 
 ---
 
@@ -85,7 +86,7 @@ These activities are:
 - Global (spread across countries and regions)
 - Extended over time
 
-Therefore, to assess environmental impacts, it is not enough to look only at the product “at rest” or only at one stage. :contentReference[oaicite:6]{index=6}
+Therefore, to assess environmental impacts, it is not enough to look only at the product “at rest” or only at one stage.
 
 ### 5.1 Example: Smartphone
 
@@ -97,7 +98,7 @@ A smartphone lying on a table has no immediate impact. Impacts arise through:
 - Transport
 - End-of-life handling (reuse/recycling/disposal)
 
-This full chain is what is meant by the **lifecycle of a product**. :contentReference[oaicite:7]{index=7}
+This full chain is what is meant by the **lifecycle of a product**.
 
 ---
 
@@ -111,11 +112,11 @@ This full chain is what is meant by the **lifecycle of a product**. :contentRefe
   - resource extraction
   - other “elemental flows” induced by technosphere activities
 
-LCA inventories inputs/outputs across the system and translates them into impact metrics through life cycle impact assessment. :contentReference[oaicite:8]{index=8}
+LCA inventories inputs/outputs across the system and translates them into impact metrics through life cycle impact assessment.
 
 ### 6.2 LCA Is Not “Only for Circular Systems”
 
-Although life cycles are often drawn as cycles, LCA is not dedicated to circular systems only. It can assess both linear and circular systems; it does not inherently distinguish them. :contentReference[oaicite:9]{index=9}
+Although life cycles are often drawn as cycles, LCA is not dedicated to circular systems only. It can assess both linear and circular systems; it does not inherently distinguish them.
 
 ---
 
@@ -145,7 +146,7 @@ The LCA process is standardized and typically includes:
 
 5. **Interpretation**
 
-   Interpret results to answer the original question. :contentReference[oaicite:10]{index=10}
+  Interpret results to answer the original question.
 
 ---
 
@@ -168,7 +169,7 @@ We do not compare “one bottle vs one pack”. We compare equivalent *service*.
 
 $$ 1 \text{ glass bottle used } 30 \text{ times} \quad \text{vs} \quad 30 \text{ packs} $$
 
-But reuse requires additional washing and transport, which must be included in the system. :contentReference[oaicite:11]{index=11}
+But reuse requires additional washing and transport, which must be included in the system.
 
 ---
 
@@ -182,7 +183,7 @@ However, LCA does not automatically answer:
 
 > “Is this alternative sustainable in an absolute sense?”
 
-It mainly supports *comparative* evaluation. :contentReference[oaicite:12]{index=12}
+It mainly supports *comparative* evaluation.
 
 ---
 
@@ -200,7 +201,7 @@ A major strength is avoiding **problem shifting** between life cycle stages. Exa
   - away from plastic disposal
   - toward steel raw material extraction and manufacturing
 
-So the “better” option depends on the full life cycle. :contentReference[oaicite:13]{index=13}
+So the “better” option depends on the full life cycle.
 
 ---
 
@@ -210,7 +211,7 @@ So far, the focus is environmental, but sustainability has **three dimensions**:
 
 - Environmental
 - Economic
-- Social :contentReference[oaicite:14]{index=14}
+- Social
 
 ### 11.1 Economic Dimension
 
@@ -219,7 +220,7 @@ Life-cycle economic thinking includes:
 - costs across the lifecycle
 - examples of cost categories (purchase, operation, maintenance, etc.)
 
-A note in the text emphasizes that external costs are not included in some contexts because they are already covered through environmental impacts in the LCA framing being used there. :contentReference[oaicite:15]{index=15}
+A note in the text emphasizes that external costs are not included in some contexts because they are already covered through environmental impacts in the LCA framing being used there.
 
 ### 11.2 Social Dimension
 
@@ -230,7 +231,7 @@ Social aspects include issues such as:
 - gender equality
 - broader welfare and equity concerns
 
-The text highlights that progress is uneven and that social aspects need to be addressed in assessment. :contentReference[oaicite:16]{index=16}
+The text highlights that progress is uneven and that social aspects need to be addressed in assessment.
 
 ---
 
@@ -246,7 +247,7 @@ Because full Life Cycle Sustainability Assessment (LCSA) is complex, a simplifie
     - production cost
     - fair wages (as an example of a social indicator)
 
-MECO is presented as DTU’s simplified way to keep a life cycle perspective while focusing on key drivers and manageable data requirements. :contentReference[oaicite:17]{index=17}
+MECO is presented as DTU’s simplified way to keep a life cycle perspective while focusing on key drivers and manageable data requirements.
 
 ---
 
@@ -262,7 +263,7 @@ Questions to answer:
 - **How long and how often?** Define time frames and use patterns.
 - **Where in the world?** Specify the geographical context and likely end-of-life situation.
 
-These answers help define the product’s value contribution to the user. :contentReference[oaicite:18]{index=18}
+These answers help define the product’s value contribution to the user.
 
 ### 13.2 Identifying Central Properties
 
@@ -276,7 +277,7 @@ Two property types are emphasized:
 
   Qualitative aspects that influence consumer choice. Examples: color, noise insulation, etc.
 
-These help shape a functional unit that reflects both quantitative service and key qualitative expectations. :contentReference[oaicite:19]{index=19}
+These help shape a functional unit that reflects both quantitative service and key qualitative expectations.
 
 ---
 
@@ -295,4 +296,4 @@ In general form:
 
 $$ \text{Functional Unit} = \text{Quantified Service} + \text{Relevant Quality Constraints} $$
 
-This completes the foundation needed before moving into specific assessment tools and indicators. :contentReference[oaicite:20]{index=20}
+This completes the foundation needed before moving into specific assessment tools and indicators.

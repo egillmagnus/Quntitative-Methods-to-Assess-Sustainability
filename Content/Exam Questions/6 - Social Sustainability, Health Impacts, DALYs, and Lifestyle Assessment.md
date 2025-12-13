@@ -1,376 +1,394 @@
-# Exam Solutions – Part 6
+# MC Exam Notes – Nr. 6
 
-## Social Sustainability, Health Impacts, DALYs, and Lifestyle Assessment
+## Social Sustainability, Health Impacts, DALYs, and Lifestyle Assessment (MC-Optimized)
 
-This part focuses on **social sustainability**, with strong emphasis on **health impacts**. Exams test whether you understand:
-
-- what social sustainability measures,  
-- how health impacts are quantified,  
-- and how to interpret DALYs correctly.
+This section is **high-yield for MC exams** because many options sound “reasonable” but only one is technically correct.
 
 ---
 
-## 1. What Is Social Sustainability?
+## 1. Social Sustainability – Core Meaning
 
-### Correct Definition
+### ✅ ALWAYS TRUE
 
-Social sustainability concerns the ability of a society to:
-
-- maintain and improve human well-being,  
-- ensure equity and fairness,  
-- protect health, safety, and rights,  
-- both now and for future generations.
-
-It complements:
-
-- environmental sustainability (emissions, resources),  
-- economic sustainability (costs, value).
+- Social sustainability focuses on **human well-being**
+- Includes:
+  - health
+  - equity
+  - fairness
+  - safety
+- Complements environmental and economic sustainability
 
 ---
 
-## 2. Why Health Is Central to Social Sustainability
+### ❌ NEVER TRUE
 
-Health is:
+- Social sustainability = only income or GDP
+- Social sustainability ignores health
+- Social sustainability is subjective only
 
-- a core component of human well-being,  
-- measurable across populations,  
-- affected by lifestyle, environment, and consumption.
+---
 
-Many sustainability impacts ultimately manifest as **health effects**. Therefore, health metrics are used as **quantitative social indicators**.
+### 🧠 FAST CHECK
+
+If option mentions:
+
+- health + equity → ✔️
+- only money or emissions → ❌
+
+---
+
+## 2. Why Health Is Central
+
+### ✅ ALWAYS TRUE
+
+- Health is:
+  - measurable
+  - comparable across populations
+  - affected by lifestyle & environment
+- Many sustainability impacts **manifest as health effects**
+
+---
+
+### ❌ NEVER TRUE
+
+- Health impacts are negligible
+- Health is unrelated to sustainability
 
 ---
 
 ## 3. Social Life Cycle Assessment (S-LCA)
 
-### Purpose of S-LCA
+### ✅ ALWAYS TRUE
 
-S-LCA assesses **social and socio-economic impacts** of products and services across their entire life cycle. It complements:
-
-- Environmental LCA  
-- Life Cycle Costing (LCC)
-
----
-
-### What S-LCA Can Answer
-
-Use S-LCA when the question asks:
-
-- “What are the social impacts along the supply chain?”  
-- “How does a product affect workers or communities?”  
-- “Are there social hotspots in production?”
+- S-LCA assesses **social impacts across the life cycle**
+- Complements:
+  - Environmental LCA
+  - LCC
+- Focuses on:
+  - workers
+  - communities
+  - society
 
 ---
 
-### Important Clarification (Exam Relevant)
+### ❌ NEVER TRUE
 
-S-LCA:
-
-- does **not** decide whether a product should exist,  
-- evaluates impacts **given that it exists**.
-
-This distinction is sometimes explicitly tested.
+- S-LCA measures emissions
+- S-LCA replaces LCA
+- S-LCA decides whether a product should exist
 
 ---
 
-## 4. Two Approaches in Social Impact Assessment
+### ⚠️ COMMON MC TRAP
 
-### 4.1 Reference Scale (Risk-Based) Approach
+“S-LCA evaluates if a product is good or bad” → ❌
 
-- Compares social performance to reference values  
-- Often qualitative or semi-quantitative  
-- Used for screening and hotspot identification
+Correct:
 
-Example:
-
-- child labor risk by country and sector
+> It evaluates impacts **given the product exists**
 
 ---
 
-### 4.2 Impact Pathway Approach
+## 4. Two Social Impact Approaches
 
-- Traces **cause–effect chains**  
-- Links activities → exposures → outcomes  
-- Allows quantification of impacts
+### ✅ REFERENCE SCALE APPROACH
 
-This approach is used for **health impacts**.
+- Risk-based
+- Relative comparison
+- Often qualitative
 
----
+Typical keywords:
 
-## 5. Disability-Adjusted Life Years (DALYs)
-
-### Core Definition
-
-DALYs measure the **burden of disease** by capturing:
-
-- premature death,  
-- years lived with disability.
-
-They quantify **lost healthy life years**.
+- “risk”
+- “hotspots”
+- “screening”
 
 ---
 
-### Fundamental Formula (Must Know)
+### ✅ IMPACT PATHWAY APPROACH
+
+- Cause → exposure → outcome
+- Quantitative
+- Used for **health impacts**
+
+---
+
+### ❌ NEVER TRUE
+
+- Reference scale gives health damage
+- Impact pathways are purely qualitative
+
+---
+
+### 🧠 FAST CHECK
+
+If option mentions:
+
+- DALYs → ✔️ impact pathway
+- risk level → ✔️ reference scale
+
+---
+
+## 5. DALYs – What They Measure
+
+### ✅ ALWAYS TRUE
+
+- DALYs measure **lost healthy life years**
+- Combine:
+  - mortality
+  - morbidity
+
+---
+
+### ❌ NEVER TRUE
+
+- DALYs count deaths only
+- DALYs measure emissions
+- DALYs are economic indicators
+
+---
+
+## 6. DALY Formula (Very High-Yield)
+
+### ✅ ALWAYS TRUE
 
 $$ \text{DALY} = \text{YLL} + \text{YLD} $$
 
-Where:
-
-- YLL = Years of Life Lost (mortality)  
-- YLD = Years Lived with Disability (morbidity)
+If an option violates this → ❌ immediately.
 
 ---
 
-## 6. Years of Life Lost (YLL)
+## 7. Years of Life Lost (YLL)
 
-### Definition
+### ✅ ALWAYS TRUE
 
-YLL measures life years lost due to **premature death**.
-
----
-
-### Formula
+- Measures **premature death**
+- Depends on **age at death**
 
 $$ \text{YLL} = N \times L $$
 
-Where:
+---
 
-- $N$ = number of deaths  
-- $L$ = remaining life expectancy at age of death
+### ❌ NEVER TRUE
+
+- YLL ignores age
+- YLL counts disability
+- Death at young age = low YLL
 
 ---
 
-### Interpretation
+### 🧠 FAST CHECK
 
-- Death at young age → high YLL  
-- Death at old age → lower YLL
+Young death → high YLL
 
-This is why childhood diseases score high in DALYs.
-
----
-
-## 7. Years Lived with Disability (YLD)
-
-### Definition
-
-YLD measures the **non-fatal health burden** of disease or injury.
+Old death → lower YLL
 
 ---
 
-### Formula
+## 8. Years Lived with Disability (YLD)
+
+### ✅ ALWAYS TRUE
+
+- Measures **non-fatal health burden**
+- Depends on:
+  - number of cases
+  - severity
+  - duration
 
 $$ \text{YLD} = I \times DW \times D $$
 
-Where:
+---
 
-- $I$ = number of cases  
-- $DW$ = disability weight (0 = perfect health, 1 = death)  
-- $D$ = duration of condition
+### ❌ NEVER TRUE
+
+- Disability weight can exceed 1
+- YLD includes mortality
+- Short diseases always dominate YLD
 
 ---
 
-### Interpretation
+## 9. DALYs vs Death Counts
 
-- Mild but long-lasting conditions → moderate YLD  
-- Severe but short conditions → moderate YLD  
-- Severe and long-lasting → high YLD
+### ✅ ALWAYS TRUE
 
----
-
-## 8. Example DALY Calculation (Exam Style)
-
-Given:
-
-- death at age 75  
-- life expectancy = 90  
-- cancer duration = 3 years  
-- disability weight = 0.3
-
-YLL:
-
-$$ 90 - 75 = 15 $$
-
-YLD:
-
-$$ 0.3 \times 3 = 0.9 $$
-
-DALY:
-
-$$ 15 + 0.9 = 15.9 $$
-
-You must show **both components** for full credit.
+- DALYs are **better than death counts**
+- DALYs account for:
+  - early death
+  - disability
 
 ---
 
-## 9. Global Burden of Disease (GBD)
+### ❌ NEVER TRUE
 
-### Purpose of GBD
-
-GBD provides:
-
-- global health statistics,  
-- disease and risk factor comparisons,  
-- DALY estimates across countries.
-
-It enables **comparability** between different health risks.
+- Death counts are sufficient
+- DALYs and death counts give same ranking
 
 ---
 
-### Risk Factors vs Causes (Often Tested)
+### 🧠 FAST CHECK
 
-- **Cause**: disease or injury (e.g. stroke)  
-- **Risk factor**: modifiable driver (e.g. diet, air pollution)
-
-DALYs can be attributed to **risk factors**.
+If option compares risks → DALYs preferred ✔️
 
 ---
 
-## 10. Why DALYs Are Better Than Death Counts
+## 10. Global Burden of Disease (GBD)
 
-Death counts:
+### ✅ ALWAYS TRUE
 
-- ignore age at death,  
-- ignore non-fatal suffering.
-
-DALYs:
-
-- account for early death,  
-- include disability,  
-- capture total health loss.
-
-This is a classic conceptual exam question.
+- GBD provides:
+  - DALYs
+  - causes of disease
+  - risk factors
+- Enables global comparison
 
 ---
 
-## 11. Micro-DALYs and Daily Interpretation
+### ❌ NEVER TRUE
 
-### Why Micro-DALYs Are Used
-
-Individual lifestyle impacts are small. To improve intuition, DALYs are converted to:
-
-- micro-DALYs ($10^{-6}$ DALY),  
-- minutes of life lost or gained per day.
+- GBD only reports deaths
+- GBD ignores risk factors
 
 ---
 
-### Conversion Insight
+## 11. Causes vs Risk Factors (Classic MC Trap)
 
-- One year ≈ 525,600 minutes  
-- Small daily effects accumulate over a lifetime
+### ✅ ALWAYS TRUE
 
----
-
-## 12. Lifestyle and Consumption Impacts on Health
-
-Health is affected by:
-
-- air pollution (PM₂.₅)  
-- climate change  
-- diet  
-- physical activity  
-- chemicals
-
-Each pathway contributes **partially**.
+- Cause = disease (e.g. stroke)
+- Risk factor = driver (e.g. diet, air pollution)
+- DALYs can be attributed to **risk factors**
 
 ---
 
-## 13. Air Pollution Example (Order of Magnitude)
+### ❌ NEVER TRUE
 
-Estimated life expectancy losses:
-
-- Clean cities: few minutes/day  
-- Polluted cities: tens of minutes/day  
-- Indoor solid fuel use: highest losses
-
-These numbers are used **comparatively**, not precisely.
+- Risk factors are diseases
+- Causes are modifiable behaviors
 
 ---
 
-## 14. Diet and Health (Very Common Exam Topic)
+## 12. Micro-DALYs & Daily Interpretation
 
-### Dietary Risk Factors
+### ✅ ALWAYS TRUE
 
-Major contributors to DALYs include:
+- Individual impacts are small
+- Expressed as:
+  - micro-DALYs
+  - minutes of life lost/gained per day
 
-- low fruit intake  
-- low whole grains  
-- high sodium  
+---
+
+### ❌ NEVER TRUE
+
+- Small daily impacts are irrelevant
+- Lifestyle impacts do not accumulate
+
+---
+
+## 13. Lifestyle Health Impacts
+
+### ✅ ALWAYS TRUE
+
+Health affected by:
+
+- air pollution (PM₂.₅)
+- diet
+- physical activity
+- climate change
+
+Each contributes **partially**.
+
+---
+
+### ❌ NEVER TRUE
+
+- One lifestyle factor dominates everything
+- Climate has no health impact
+
+---
+
+## 14. Diet and Health (High-Trap Area)
+
+### ✅ ALWAYS TRUE
+
+Major dietary risk factors:
+
+- low fruit
+- low whole grains
+- high sodium
 - low calcium
 
-Note:
+---
 
-- “Eating less meat” is **not automatically** a health benefit  
-- Nutritional balance matters
+### ❌ NEVER TRUE
 
-This nuance is often tested.
+- “Eating less meat” is automatically healthy
+- One food determines health outcome
 
 ---
 
-## 15. Physical Activity and METs
+## 15. Physical Activity & METs
 
-### MET Definition
+### ✅ ALWAYS TRUE
 
-- MET = Metabolic Equivalent of Task  
-- Measures energy expenditure of activities
-
-Higher MET-hours per week:
-
-- reduce DALYs,  
-- improve health outcomes.
-
-Active transport (cycling, walking) scores highly.
+- MET = energy expenditure indicator
+- Higher MET-hours:
+  - reduce DALYs
+  - improve health
 
 ---
 
-## 16. Climate Change and Health
+### ❌ NEVER TRUE
 
-Climate change affects health through:
-
-- heat stress  
-- extreme events  
-- food insecurity  
-- disease spread
-
-Health impacts are:
-
-- delayed,  
-- unevenly distributed,  
-- often affect vulnerable populations most.
+- MET measures emissions
+- Physical activity has no health effect
 
 ---
 
-## 17. Inequality and Environmental Justice
+## 16. Climate Change & Health
 
-A key insight:
+### ✅ ALWAYS TRUE
 
-- Those contributing least to environmental damage  
-- often suffer the greatest health impacts
-
-This is central to **social sustainability**.
-
----
-
-## 18. What Examiners Look For in Part 6
-
-Full-credit answers:
-
-- define DALYs correctly  
-- explain YLL and YLD  
-- use correct formulas  
-- distinguish causes vs risk factors  
-- interpret lifestyle impacts qualitatively  
-- mention equity and justice
+- Climate change affects health via:
+  - heat stress
+  - extreme events
+  - food security
+- Impacts are **unequally distributed**
 
 ---
 
-## Summary
+### ❌ NEVER TRUE
 
-- Social sustainability focuses on human well-being  
-- Health impacts are central and measurable  
-- DALYs combine mortality and morbidity  
-- GBD enables global comparison  
-- Lifestyle and consumption affect health via multiple pathways  
-- Equity is a core sustainability concern
+- Climate impacts are evenly distributed
+- Climate change affects only environment
 
 ---
 
-**End of Part 6**
+## 17. Inequality & Environmental Justice
+
+### ✅ ALWAYS TRUE
+
+- Those contributing least often suffer most
+- Equity is central to social sustainability
+
+---
+
+### ❌ NEVER TRUE
+
+- Sustainability impacts are evenly shared
+
+---
+
+## 🔍 MC QUICK ELIMINATION RULES (Nr. 6)
+
+Eliminate options that:
+
+- treat DALYs as emissions or money
+- ignore age or disability
+- confuse causes and risk factors
+- claim small impacts do not matter
+- treat health as secondary
+
+---
+
+**End of MC-Optimized Nr. 6**
