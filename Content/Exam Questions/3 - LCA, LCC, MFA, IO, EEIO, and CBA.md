@@ -95,6 +95,37 @@ If option mentions:
 
 ---
 
+### 🧠 MC QUESTION (Goal & Scope in LCC)
+
+Which of these activities are normally **NOT** part of the **goal and scope** of LCC?
+
+Choose one answer:
+
+- Determine the purpose of LCC analysis
+- Select the appropriate model
+- Consider the volatility of costs and cost-influencing parameters
+- Define the scope of the system
+
+### ✅ CORRECT ANSWER
+
+- ✔️ Consider the volatility of costs and cost-influencing parameters
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **“Determine the purpose of LCC analysis”** → **Part of goal definition**
+  - This is exactly what the “goal” step is: *why* you do the LCC and *for whom*.
+
+- **“Select the appropriate model”** → **Typically part of scope/method choice**
+  - In goal & scope you choose the general approach (e.g., what type of LCC/LCCA, perspective, and key methodological choices).
+
+- **“Consider the volatility of costs and cost-influencing parameters”** → **Not goal & scope (interpretation/uncertainty)**
+  - Volatility/uncertainty is usually handled via **sensitivity/uncertainty analysis** after the model is set up (interpretation).
+
+- **“Define the scope of the system”** → **Part of scope definition**
+  - Scope includes what is inside/outside the system (system boundary), time horizon, and cost categories.
+
+---
+
 ## 4. LCA vs LCC (Very Common MC Comparison)
 
 ### ✅ ALWAYS TRUE

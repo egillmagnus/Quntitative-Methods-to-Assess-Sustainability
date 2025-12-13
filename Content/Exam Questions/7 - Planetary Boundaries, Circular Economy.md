@@ -55,20 +55,60 @@ If option says:
 
 ---
 
-## 3. Planetary Boundary Processes (Must Recognize)
+## 3. Sustainability Transition (Definition)
+
+### 🧠 MC QUESTION
+
+What does **sustainability transition** mean?
+
+Choose one answer
+
+- interventions so that  acceptable outcomes on the three dimensions of sustainability are sustained and unacceptable conditions are changed towards more sustainable outcomes
+- a revolutionary approach to change the way societies work
+- a democratic approach to change the way societies work
+- utopic scenario where the planet is moved away from planetary boundaries
+
+### ✅ CORRECT ANSWER
+
+- ✔️ interventions so that  acceptable outcomes on the three dimensions of sustainability are sustained and unacceptable conditions are changed towards more sustainable outcomes
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **“Interventions…acceptable outcomes sustained…unacceptable conditions changed”** → **Correct**
+  - Sustainability transitions are about **directed change** in socio-technical systems to improve outcomes across **environmental, economic, and social** dimensions.
+
+- **“A revolutionary approach…”** → **Wrong (too narrow)**
+  - Transitions can include **incremental + structural** change; “revolutionary” is not required.
+
+- **“A democratic approach…”** → **Wrong (not the definition)**
+  - Participation/governance can matter, but “democratic” is not what defines a transition.
+
+- **“Utopic scenario…”** → **Wrong**
+  - Transitions are not utopias; they are **real-world pathways** toward staying within limits (e.g., planetary boundaries), not “moving the planet away” from them.
+
+---
+
+## 4. Planetary Boundary Processes (Must Recognize)
 
 ### ✅ ALWAYS TRUE
 
-Planetary boundaries include **biophysical processes**, such as:
+Planetary boundaries include **biophysical Earth-system processes** with (proposed) **control variables** used to track whether we are inside/outside the safe operating space.
 
-- climate change
-- biosphere integrity (biodiversity)
-- land-system change
-- freshwater use
-- nitrogen & phosphorus cycles
-- ocean acidification
-- ozone depletion
-- novel entities
+Concrete list: the **9 planetary boundaries** and what each entails:
+
+1. **Climate change** → disruption of Earth’s energy balance from greenhouse gases (often tracked via CO₂ concentration / radiative forcing).
+2. **Biosphere integrity** → loss of biodiversity and ecosystem functioning, reducing resilience of ecosystems.
+3. **Land-system change** → conversion of natural land (e.g., forests) to cropland/urban land, altering carbon storage, water cycles, and habitats.
+4. **Freshwater change** → human alteration of freshwater quantity/flows (withdrawals, dams, flow modification) that disrupts ecosystems and regional climate.
+5. **Biogeochemical flows (nitrogen & phosphorus)** → excess N/P from fertilizers and waste causing eutrophication and dead zones.
+6. **Ocean acidification** → declining ocean pH from CO₂ uptake, harming calcifying organisms and marine food webs.
+7. **Stratospheric ozone depletion** → thinning of the ozone layer, increasing harmful UV radiation.
+8. **Atmospheric aerosol loading** → particles/air pollution affecting climate (radiation/clouds) and regional rainfall/monsoons.
+9. **Novel entities** → synthetic substances (e.g., plastics, PFAS, toxic chemicals) accumulating beyond safe assimilation capacity.
+
+Important nuance:
+
+- Some boundaries are **global** (e.g., climate), while others are **strongly regional** (e.g., freshwater, aerosols). “Global average” thinking can be misleading.
 
 ---
 
@@ -86,7 +126,15 @@ If it’s **not an Earth-system process** → ❌
 
 ---
 
-## 4. Current Boundary Status (Direction Matters)
+### ⚠️ COMMON MC TRAPS
+
+- Confusing **planetary boundaries** with **social/economic indicators** (GDP, prices, inequality) → ❌
+- Treating boundaries as **exact tipping points** rather than **risk-based limits** → ❌
+- Thinking boundaries are “impacts like CO₂ footprint” rather than **underlying Earth-system processes** → ❌
+
+---
+
+## 5. Current Boundary Status (Direction Matters)
 
 ### ✅ ALWAYS TRUE
 
@@ -104,7 +152,7 @@ If it’s **not an Earth-system process** → ❌
 
 ---
 
-## 5. Earth Overshoot Day
+## 6. Earth Overshoot Day
 
 ### ✅ ALWAYS TRUE
 
@@ -131,7 +179,7 @@ Correct:
 
 ---
 
-## 6. Planetary Boundaries vs LCA
+## 7. Planetary Boundaries vs LCA
 
 ### ✅ ALWAYS TRUE
 
@@ -158,7 +206,7 @@ Absolute limits → planetary boundaries
 
 ---
 
-## 7. Circular Economy – Core Purpose
+## 8. Circular Economy – Core Purpose
 
 ### ✅ ALWAYS TRUE
 
@@ -181,7 +229,7 @@ Contrasts with:
 
 ---
 
-## 8. Bocken Circular Economy Strategies
+## 9. Bocken Circular Economy Strategies
 
 ### ✅ MUST-RECOGNIZE CATEGORIES
 
@@ -217,7 +265,7 @@ If option ranks:
 
 ---
 
-## 9. Circular Economy Ranking (Very Common MC Topic)
+## 10. Circular Economy Ranking (Very Common MC Topic)
 
 ### ✅ ALWAYS TRUE
 
@@ -240,7 +288,7 @@ Reason:
 
 ---
 
-## 10. Circular Economy Exam Traps
+## 11. Circular Economy Exam Traps
 
 ### ❌ ALWAYS FALSE
 
@@ -298,7 +346,7 @@ Reason: it primarily supports **end-of-life material recovery** (closing loops),
 
 ---
 
-## 11. Circular Economy & Rebound Effects
+## 12. Circular Economy & Rebound Effects
 
 ### ✅ ALWAYS TRUE
 
@@ -318,7 +366,7 @@ $$ I = P \cdot A \cdot T $$
 
 ---
 
-## 12. Integrating Sustainability Dimensions
+## 13. Integrating Sustainability Dimensions
 
 ### ✅ ALWAYS TRUE
 
@@ -337,7 +385,7 @@ True sustainability integrates:
 
 ---
 
-## 13. Absolute vs Relative Sustainability
+## 14. Absolute vs Relative Sustainability
 
 ### ✅ ALWAYS TRUE
 
@@ -355,7 +403,7 @@ True sustainability integrates:
 
 ---
 
-## 14. Governance & Policy
+## 15. Governance & Policy
 
 ### ✅ ALWAYS TRUE
 
@@ -375,7 +423,7 @@ True sustainability integrates:
 
 ---
 
-## 15. Early Warning Signals for State Shifts
+## 16. Early Warning Signals for State Shifts
 
 ### ✅ ALWAYS TRUE
 
@@ -392,7 +440,7 @@ If the options include these statements, the correct one is:
 
 ---
 
-## 16. Value Recovery at Material Level (Circular Economy)
+## 17. Value Recovery at Material Level (Circular Economy)
 
 ### ✅ ALWAYS TRUE
 
@@ -405,6 +453,90 @@ If the options include these statements, the correct one is:
 Question: “Which strategy does **NOT** entail value recovery at a **material level**?”
 
 - ✔️ Reuse
+
+---
+
+## 18. Usual (Linear) Value Chain vs Circular Value Chain
+
+### ✅ ALWAYS TRUE
+
+A **usual (linear) value chain** describes how value is created when products move *one-way* through the economy:
+
+> extract → process → manufacture → distribute → use → dispose
+
+Typical stakeholders in a **linear** value chain include:
+
+- **Materials providers** (extract/process raw materials)
+- **Component manufacturers** (make parts/subassemblies)
+- **Product manufacturers / assemblers** (final product)
+- **Logistics providers** (transport, warehousing, distribution)
+- **Retailers / customers** (purchase and use)
+
+Key difference:
+
+- **Circular** value chains add **reverse flows** (collection, sorting, refurbish, remanufacture, recycle) to retain value.
+
+### 🧠 MC QUESTION
+
+Which of the following stakeholders are usually **NOT** present in a **linear** value chain?
+
+Choose one answer
+
+- Logistic Providers
+- Component Manufacturers
+- Materials Providers
+- Value Recovery companies
+
+### ✅ CORRECT ANSWER
+
+- ✔️ Value Recovery companies
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **“Logistic Providers”** → **Usually present**
+  - Linear chains still require transport/distribution.
+
+- **“Component Manufacturers”** → **Usually present**
+  - Linear production often involves multi-tier supply chains.
+
+- **“Materials Providers”** → **Usually present**
+  - Linear chains start with extraction/processing of materials.
+
+- **“Value Recovery companies”** → **Usually NOT present (linear)**
+  - Value recovery (collection, refurbish/remanufacture, recycling) is characteristic of **circular/reverse** supply chains, not “take–make–dispose”.
+
+---
+
+## 19. Interpretation, Trade-offs, and MCDA (Common Exam Traps)
+
+### 🧠 MC QUESTION
+
+Which of the following statements are correct?
+
+Choose one answer
+
+- There are seldomly trade-offs between indicators and or sustainability dimensions
+- The interpretation must always include a quantitative uncertainty assessment of the parameters in order to be able to run a monte carlo simulation
+- MDCA methods can be used for making a fully objective choice
+- The interpretation of the assessment involves an evaluation of the completeness (how well is the system covered).
+
+### ✅ CORRECT ANSWER
+
+- ✔️ The interpretation of the assessment involves an evaluation of the completeness (how well is the system covered).
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **“There are seldomly trade-offs…”** → **Wrong**
+  - Trade-offs are **common**, especially when combining environmental, economic, and social indicators.
+
+- **“Interpretation must always include quantitative uncertainty…Monte Carlo”** → **Wrong**
+  - Uncertainty/sensitivity analysis is good practice, but it is **not always mandatory**, and it does not have to be Monte Carlo.
+
+- **“MDCA methods can be used for making a fully objective choice”** → **Wrong**
+  - (Usually written **MCDA**.) MCDA requires **value judgments** (weights, preferences, normalization), so results are not “fully objective”.
+
+- **“Interpretation involves evaluation of completeness…”** → **Correct**
+  - Interpretation includes checking whether the assessment is **complete/consistent** enough to support the conclusions.
 
 ---
 
