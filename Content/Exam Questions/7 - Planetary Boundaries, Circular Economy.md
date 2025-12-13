@@ -351,6 +351,22 @@ If the options include these statements, the correct one is:
 
 ---
 
+## 16. Value Recovery at Material Level (Circular Economy)
+
+### ✅ ALWAYS TRUE
+
+- **Reuse** is primarily **product/component-level** value retention (you keep the item in use).
+- **Recycling / recovery** are **material-level** strategies (you break down to material or recover energy/value from material).
+- **Cascading** typically means using a material in successive, lower-grade applications (still a *material-use* strategy, not simple reuse of the same product).
+
+### 🧠 MC ANSWER (Typical Wording)
+
+Question: “Which strategy does **NOT** entail value recovery at a **material level**?”
+
+- ✔️ Reuse
+
+---
+
 ## 🔍 MC QUICK ELIMINATION RULES (Nr. 7)
 
 Eliminate options that:
