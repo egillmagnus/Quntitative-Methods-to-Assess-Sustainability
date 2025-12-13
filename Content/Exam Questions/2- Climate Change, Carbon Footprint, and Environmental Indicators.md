@@ -274,6 +274,29 @@ Carbon footprint does **not** capture:
 
 ---
 
+## 12. Ecological Footprint (Country Level)
+
+### ✅ ALWAYS TRUE
+
+- A country’s **ecological footprint** is typically **consumption-based** (it follows what the country consumes, not only what it produces).
+- It represents pressure on nature mainly through:
+  - **climate change (carbon/CO₂ component)**
+  - **land use / biologically productive area use**
+
+### ❌ NEVER TRUE
+
+- It is “the number of threatened species in the country” (that’s biodiversity status, not ecological footprint)
+- It is “national emissions only” (that’s closer to a production-based emissions inventory)
+- It is “water use occurring within the nation” (different indicator family)
+
+### 🧠 MC ANSWER (Typical Wording)
+
+Correct option:
+
+- ✔️ Climate change and land use caused by the national consumption
+
+---
+
 ## 🔍 MC QUICK ELIMINATION RULES (Nr. 2)
 
 Eliminate options that:
