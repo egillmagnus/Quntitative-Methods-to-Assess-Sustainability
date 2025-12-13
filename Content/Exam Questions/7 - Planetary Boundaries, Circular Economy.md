@@ -257,6 +257,47 @@ Reason:
 
 ---
 
+## 10A. Design Approaches for Product Longevity (Circular Design)
+
+### ✅ KEY IDEA
+
+**Product longevity** focuses on **slowing loops** (keeping products in use longer). Many circular strategies exist, but **not all are longevity-focused**.
+
+### 🧠 MC QUESTION
+
+Which of the following are **NOT** circular design approaches to **product longevity**?
+
+- Design for emotional durability
+- Design for physical durability
+- Design for upgrade
+- Design for recycling
+
+### ✅ CORRECT ANSWER
+
+- ✔️ **Design for recycling**
+
+Reason: it primarily supports **end-of-life material recovery** (closing loops), not **keeping the product in use longer**.
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **Design for emotional durability** → **Longevity-focused (NOT the answer)**
+  - Goal: users keep a product longer because of attachment, satisfaction, identity, or timeless aesthetics.
+  - Effect: reduces premature replacement even when the product still functions.
+
+- **Design for physical durability** → **Longevity-focused (NOT the answer)**
+  - Goal: robust materials/components, reliability, resistance to wear and failure.
+  - Effect: extends technical lifetime and reduces need for replacement.
+
+- **Design for upgrade** → **Longevity-focused (NOT the answer)**
+  - Goal: modularity/replaceable components (e.g., battery, memory, key modules) so performance can improve over time.
+  - Effect: avoids replacing the whole product when only one part becomes obsolete.
+
+- **Design for recycling** → **Not a longevity design approach (the answer)**
+  - Goal: easier disassembly and material separation at end-of-life.
+  - Effect: improves material recovery **after** use; does not necessarily extend the use phase.
+
+---
+
 ## 11. Circular Economy & Rebound Effects
 
 ### ✅ ALWAYS TRUE
