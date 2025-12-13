@@ -274,6 +274,43 @@ Examples:
 
 ---
 
+## 10. LCSA Result Visualization (Backes et al.)
+
+### ✅ KEY IDEA
+
+LCSA combines **environmental + economic + social** results, typically as **multiple indicators**. A common visualization pitfall is to **over-aggregate**, which hides what happens within each sustainability dimension.
+
+### 🧠 MC QUESTION
+
+What is the main gap in existing methods for visualizing LCSA results according to Backes et al.?
+
+- They do not sufficiently use both colors and numerical values to ease the interpretation
+- They do not present both indicators for each sustainability dimension and an overall assessment of the full LCSA in a comprehensible way
+- They only show aggregated results and do not present indicators for each sustainability dimension
+- They can only be used for comparisons and not for e.g. optimization of a system
+
+### ✅ CORRECT ANSWER
+
+- ✔️ They only show aggregated results and do not present indicators for each sustainability dimension
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **“Colors + numerical values are missing”** → **Wrong (not the main gap)**
+  - This is a *formatting choice*; you can add numbers/colors, but that still doesn’t solve the core problem of **information loss from aggregation**.
+
+- **“Need both per-dimension indicators AND an overall LCSA score”** → **Wrong / overstated**
+  - An “overall LCSA” single score is often **not mandatory** (and can be controversial due to weighting/normalization).
+  - The key gap highlighted here is specifically that methods **don’t show the dimension-specific indicators** (they collapse them).
+
+- **“Only aggregated results; no indicators per dimension”** → **Correct**
+  - Aggregation hides whether a trade-off is driven by environment vs economy vs social.
+  - Good visualization should allow interpreting **each dimension’s indicators**, not just a rolled-up result.
+
+- **“Only for comparisons, not optimization”** → **Wrong (not the main gap)**
+  - Visualization methods can be used in multiple decision contexts; the bigger limitation is typically **what they show**, not whether the same plot can support optimization.
+
+---
+
 ## 🔍 MC QUICK ELIMINATION RULES (Nr. 3)
 
 Eliminate options that:
