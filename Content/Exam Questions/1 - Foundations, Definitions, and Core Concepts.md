@@ -238,7 +238,7 @@ If option ignores rebound → suspicious
 - Ratio of **value/service** to **environmental impact**  
 - Measures *relative efficiency*
 
-$$ \text{Eco-efficiency} = \frac{\text{Value}}{\text{Impact}} $$
+$$ \text{Eco-efficiency} = \frac{\text{Value}}{\text{Impact}} = 1/T = delivered service/enviromental impact$$
 
 ---
 
