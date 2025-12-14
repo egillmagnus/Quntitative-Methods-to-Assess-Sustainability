@@ -540,6 +540,40 @@ Choose one answer
 
 ---
 
+## 20. SDGs: Consequences of Not Meeting Them
+
+### 🧠 MC QUESTION
+
+What are the consequences of failing to meet the SDGs?
+
+Choose one answer
+
+- there are none
+- countries failing to meet the SDGs will be fined CampusNet
+- countries failing to meet the SDGs will have trade sanctions applied
+- we will not be able to meet the Rio 1992 Declaration commitments
+
+### ✅ CORRECT ANSWER
+
+- ✔️ there are none
+
+### WHY EACH OPTION IS RIGHT/WRONG
+
+- **“There are none”** → **Correct (in the formal enforcement sense)**
+  - The SDGs are a **voluntary / non-binding** UN framework. There is no built-in mechanism that automatically fines or sanctions countries for not reaching them.
+
+- **“Countries…will be fined CampusNet”** → **Wrong**
+  - There is no SDG enforcement via CampusNet (or any comparable centralized fines system).
+
+- **“Countries…will have trade sanctions applied”** → **Wrong**
+  - SDG non-achievement does not automatically trigger trade sanctions under the SDG framework.
+
+- **“We will not be able to meet the Rio 1992 Declaration commitments”** → **Wrong (as an exam-style consequence)**
+  - Rio 1992 is part of the historical sustainability agenda, but SDG non-achievement does not create a specific, formal “Rio-commitment penalty” either.
+  - Real consequences are primarily **societal/environmental outcomes** and **political/reputational pressure**, not automatic legal sanctions.
+
+---
+
 ## 🔍 MC QUICK ELIMINATION RULES (Nr. 7)
 
 Eliminate options that:

@@ -276,9 +276,31 @@ If option mentions:
 
 “CBA gives a scientifically correct answer” → ❌
 
+“CBA can be used to calculate the direct and indirect impacts of the production and consumption of different products and services on key economic parameters” → ❌
+
 Correct logic:
 
-> CBA depends on assumptions and valuation
+This is a **wording trap** because “indirect impacts” can mean two different things:
+
+1. **Indirect = externalities / welfare effects** (CBA meaning)
+  - e.g., monetized climate damages, health impacts, time savings.
+  - ✔️ CBA can include these **if they are monetized** (shadow prices, WTP, SCC, etc.).
+
+2. **Indirect = supply-chain / economy-wide indirect effects** (IO/EEIO meaning)
+  - e.g., supplier impacts, output/value-added multipliers, indirect jobs.
+  - ✔️ IO/EEIO is designed to **calculate** these indirect effects.
+  - ❌ CBA does not *derive* these effects by itself (it can **use** IO/EEIO results as inputs).
+
+**Exam-safe rule:**
+
+> If you see “direct + indirect impacts/effects on economic parameters (output, jobs, value added)” → think **IO/EEIO**, not CBA.
+
+Quick comparison (memorize):
+
+- **CBA** → monetizes and compares costs/benefits for a decision (NPV / net benefit), depends on assumptions/valuation.
+- **IO** → calculates direct + indirect economic ripple effects across sectors (economy-wide).
+- **EEIO** → IO + environmental extensions (adds indirect emissions/resources).
+- **LCA** → product/service environmental impacts over the life cycle (functional-unit based; not monetary by default).
 
 ---
 
