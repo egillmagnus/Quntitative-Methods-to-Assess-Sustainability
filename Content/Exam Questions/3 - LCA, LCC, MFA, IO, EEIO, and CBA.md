@@ -25,16 +25,16 @@ If an option uses the wrong tool for the question → ❌
 
 ## Teacher Definitions (Word-for-Word)
 
-1. Life Cycle Cost Analysis
+1. Life Cycle Cost Analysis (LCCA)
 Can be used to evaluate the economic cost of a good or a service over its lifecycle.
 
-4. Input–Output models
+2. Input Output models (IO)
 Can be used to calculate the direct and indirect impacts of the production and consumption of different products and services on key economic parameters.
 
-3. Cost–Benefit Analysis
+3. Cost Benefit Analysis (CBA)
 Is an economic method that estimates the equivalent monetary value of the benefits and costs of a project.
 
-2. Social Life Cycle Cost Analysis
+4. Social Life Cycle Cost Analysis (SLCCA)
 Is developed towards evaluating social impacts of a good or a service over its lifecycle.
 
 ---
