@@ -144,6 +144,30 @@ This marked a shift from broad ambitions to a more structured measurement system
 
 ---
 
+### 7.2 The 17 SDGs (Full List)
+
+Below is a concrete list of all **17 Sustainable Development Goals** (official short titles) and what each entails:
+
+1. **No Poverty** → end poverty in all its forms; social protection and basic services.
+2. **Zero Hunger** → end hunger; food security, nutrition, and sustainable agriculture.
+3. **Good Health and Well-Being** → ensure healthy lives; reduce mortality and disease burdens.
+4. **Quality Education** → inclusive, equitable education and lifelong learning opportunities.
+5. **Gender Equality** → end discrimination and violence; equal rights and opportunities.
+6. **Clean Water and Sanitation** → safe water, sanitation, and sustainable water management.
+7. **Affordable and Clean Energy** → reliable, sustainable, modern energy; efficiency and renewables.
+8. **Decent Work and Economic Growth** → productive employment, decent work, and inclusive growth.
+9. **Industry, Innovation and Infrastructure** → resilient infrastructure, sustainable industrialization, innovation.
+10. **Reduced Inequalities** → reduce inequality within and between countries.
+11. **Sustainable Cities and Communities** → inclusive, safe, resilient, sustainable settlements.
+12. **Responsible Consumption and Production** → sustainable consumption/production; resource efficiency and waste reduction.
+13. **Climate Action** → urgent action on climate change and its impacts (mitigation/adaptation).
+14. **Life Below Water** → conserve and sustainably use oceans and marine resources.
+15. **Life on Land** → protect terrestrial ecosystems; forests, biodiversity, and land degradation.
+16. **Peace, Justice and Strong Institutions** → rule of law, accountability, reduced violence.
+17. **Partnerships for the Goals** → finance, technology, capacity, trade, and cooperation to implement the SDGs.
+
+---
+
 ## 8. Ambitions vs. Objectives
 
 A persistent challenge in sustainability policy is distinguishing between **ambitions** and **objectives**.

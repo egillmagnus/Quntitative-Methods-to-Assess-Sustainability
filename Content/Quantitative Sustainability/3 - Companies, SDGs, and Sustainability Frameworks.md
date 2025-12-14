@@ -192,6 +192,17 @@ The **European taxonomy for sustainable investment** provides a classification s
 
 This represents a shift from voluntary reporting toward more regulated sustainability disclosure.
 
+### 11.1 Environmental Objectives of the EU Taxonomy Regulation
+
+An activity can be considered environmentally sustainable (in the EU Taxonomy sense) by contributing substantially to one (or more) of these **six environmental objectives**:
+
+1. **Climate change mitigation**  
+2. **Climate change adaptation**  
+3. **Sustainable use and protection of water and marine resources**  
+4. **Transition to a circular economy** (including waste prevention and recycling)  
+5. **Pollution prevention and control**  
+6. **Protection and restoration of biodiversity and ecosystems**
+
 ---
 
 ## 12. Key Takeaways
