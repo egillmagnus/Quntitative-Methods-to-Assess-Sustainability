@@ -131,6 +131,7 @@ Companies engage in sustainability through a range of initiatives:
 
 - **UN Global Compact**  
   Companies commit to sustainability principles and reporting.
+  SDG Compass & Science based targets
 
 - **Science-Based Targets**  
   Firms commit to greenhouse gas reduction pathways aligned with climate science.
