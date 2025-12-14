@@ -60,7 +60,7 @@ If option mentions:
 
 ### ✅ ALWAYS TRUE
 
-- S-LCA assesses **social impacts across the life cycle**
+- Is developed towards evaluating social impacts of a good or a service over its lifecycle.
 - Complements:
   - Environmental LCA
   - LCC

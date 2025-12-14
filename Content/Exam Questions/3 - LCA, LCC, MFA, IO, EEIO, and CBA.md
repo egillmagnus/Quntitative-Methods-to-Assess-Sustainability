@@ -23,6 +23,22 @@ If an option uses the wrong tool for the question → ❌
 
 ---
 
+## Teacher Definitions (Word-for-Word)
+
+1. Life Cycle Cost Analysis
+Can be used to evaluate the economic cost of a good or a service over its lifecycle.
+
+4. Input–Output models
+Can be used to calculate the direct and indirect impacts of the production and consumption of different products and services on key economic parameters.
+
+3. Cost–Benefit Analysis
+Is an economic method that estimates the equivalent monetary value of the benefits and costs of a project.
+
+2. Social Life Cycle Cost Analysis
+Is developed towards evaluating social impacts of a good or a service over its lifecycle.
+
+---
+
 ## 2. Life Cycle Assessment (LCA)
 
 ### ✅ ALWAYS TRUE
@@ -64,6 +80,7 @@ If the option mentions:
 
 ### ✅ ALWAYS TRUE
 
+- Can be used to evaluate the economic cost of a good or a service over its lifecycle.
 - Includes **CAPEX + OPEX** ( CAPITAL EXPENCES  + OPERATIONAL EXPENCES)
 - Covers **entire lifetime**
 - Uses **monetary units**
@@ -191,6 +208,7 @@ If option mentions:
 
 ### ✅ ALWAYS TRUE
 
+- Can be used to calculate the direct and indirect impacts of the production and consumption of different products and services on key economic parameters.
 - Economy-wide
 - Sector-based
 - Captures **direct + indirect effects**
@@ -257,6 +275,7 @@ If option mentions:
 
 ### ✅ ALWAYS TRUE
 
+- Is an economic method that estimates the equivalent monetary value of the benefits and costs of a project.
 - Compares **costs and benefits**
 - Expressed in **monetary terms**
 - Can include environmental impacts **if monetized**
